@@ -19,6 +19,9 @@ format:
     fig-height: 10
 ---
 
+https://ellitna.shinyapps.io/EcosystemMap/
+
+
 # Competition and Technological Evolution
 
 ## Reasons for Selecting the Agriculture Industry
