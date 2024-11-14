@@ -107,21 +107,19 @@ Ways to fight the issues of water shortages are going forward; it is very import
 
 ## Timeline of the Agriculture Industry
 
-# #IMAGE
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/timeline.png)
 
 ## The tractor case
 
 As we can see on the timeline, the agricultural industry spans thousands of years, and there are also players in vastly different fields, such as pharmaceuticals, engineering and, quite simply, agriculture itself. So, in order to be able to carry out this work on the timing of strategies, we have no choice this time but to focus on one topic, because there have been hundreds and hundreds of key players and first movers in the history of agriculture. We have decided to focus on the tractor market.
 
-**Ford**’s Fordson and **John Deere**’s Waterloo Boy tractor were the first movers in the early tractor market. A fundamental changing moment in the mechanization of agriculture occurred in 1917 with the introduction of 
+**Ford**’s Fordson and **John Deere**’s Waterloo Boy tractor were the first movers in the early tractor market. A fundamental changing moment in the mechanization of agriculture occurred in 1917 with the introduction of
 
 ![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
 
-
-
 The Fordson, bringing an affordable and large-scale produced tractor. At the time, **John Deere** also entered the market when he bought Waterloo Gasoline Engine Company in 1918 and introduced its Waterloo Boy. These two firms established the building blocks of rapid acceptance and utilization by farmers in the United States, and ultimately around the world.
 
-![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png)
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png){width="586"}
 
 Fordson’s Timing Strategy was mass production. Using the techniques of mass production, **Ford** was able to change the way that tractors were manufactured. This meant prospects were able to buy Fordson tractors at a fairly low price, which was particularly important as farm mechanization became necessary for the average farmer due to labor shortages during World War I.
 
@@ -179,11 +177,11 @@ Last but not least, Impact Hub Istanbul and other EIT Food HUBs in eastern Europ
 
 ## Contribution of Hubs and Experimentation centers
 
-### Precision Agriculture and Digitalization 
+### Precision Agriculture and Digitalization
 
 All these entities contribute to innovation and technological developments, for example in digitalization and precision agriculture. Leading precision agriculture, hubs like SmartAgriHubs and DIH AGRIFOOD deploy big data along with advanced robotics as well as automated sensing technologies to provide agricultural end users with data-driven advice for improved optimization of farm variables including soil properties, irrigation, and pest control. FAO hubs also cater directly to sociotechnical specialists working in regions where little technological progress has been made; thereby making access by stakeholders at a broader scale, including youth and women. Swiss Food & Nutrition Valley contribute also to research advancements by generating knowledge on precision farming practices aiding connect local producers into cutting-edge digital tools while giving an exemplar vision that translates food production into sustainability goals built around quality standards recommended globally.
 
-### Product Development and Testing 
+### Product Development and Testing
 
 In terms of accelerated product development and testing, Syngenta´s R&D Innovation Center, SouthEast Innovation Institute (SEII) support advanced genomics, pest resistance testing, automation, fast-track innovation cycles of new hybrid seeds and pest control solutions. SmartAgriHubs and DIH AGRIFOOD provide competence centers that host necessary environment testings where solutions can be customized and tested before wide-scale deployment thereby cutting down significantly on time needed for innovations delivery. Switzerland’s Agroscope plays vital role in providing experimental space to test sustainable agricultural practices as well as creating climate-resilient and environment friendly innovations.
 
@@ -211,7 +209,7 @@ To conclude, innovation hubs and experimentation centers in the agriculture ecos
 
 # Organizing for Innovation
 
-## Organizational structures of agricultural businesses: 
+## Organizational structures of agricultural businesses:
 
 In the agricultural sector, leading companies adopt a variety of organizational structures to drive innovation and maintain competitive advantage. These structures range from centralized R&D models to regional customer-focused frameworks, each designed to improve collaboration, streamline development processes or respond to local market needs. DHL's organizational strategies, presented by the speaker, offer further insights into the impact of different models on innovation. Here we will present some of these structures:
 
@@ -221,19 +219,19 @@ In the agricultural sector, leading companies adopt a variety of organizational 
 
 Bayer CropScience and Syngenta AG, for example, use centralized R&D structures to manage and coordinate their innovation efforts. This approach allows R&D activities to be consolidated within a centralized framework, enabling these companies to maintain strict oversight, align strategic objectives and efficiently allocate resources between projects. As DHL's approach shows, central supervision allows these companies to maintain consistency and control, which is invaluable in highly regulated sectors such as agriculture.
 
-### Matrix structures 
+### Matrix structures
 
 **BASF SE and DowDuPont Inc**:
 
 BASF and DowDuPont use a matrix organizational structure, combining functional and project teams. This model encourages cross-functional collaboration by allowing R&D, marketing and regulatory teams to work closely together on innovation projects. The matrix structure fosters an environment where ideas flow between departments, promoting innovation that is aligned with both technical advances and market needs, offering the company great agility to adapt. However, as DHL's experience shows, managing a matrix structure requires clear guidelines to avoid inefficiencies and wasting money in order to maintain project focus, as it is easy in this kind of structure for difficulties to arise when it comes to coordinating and agreeing between the different parties.
 
-### Product-centered hierarchies 
+### Product-centered hierarchies
 
 **John Deere and CNH Industrial**:
 
 John Deere and CNH Industrial operate with product-centric hierarchies, structuring their teams around specific machine categories. This model emphasizes specialist engineering and in-depth expertise within product lines, supporting targeted innovation in areas such as precision farming and autonomous machinery. DHL's ‘funnel’ approach to selecting and developing new technologies reflects this structure, as both models focus on selecting projects based on their potential impact and practicality, ensuring that resources are directed towards high-priority innovations.
 
-### Customer-focused regional models 
+### Customer-focused regional models
 
 **AGCO Corporation and Kubota Corporation**:
 
@@ -333,7 +331,7 @@ In response to these challenges, regulators and policymakers will need to set gu
 
 # Intellectual Property Strategy
 
-## IP Strategies and their impact on innovation 
+## IP Strategies and their impact on innovation
 
 The Agrifood sector is a major segment of the innovation system with over 3.5 million patent families published in the last 20 years. Agrifood is divided into two main categories: AgriTech and FoodTech. It turns out the AgriTech sub-domain contributes to the vast majority of patent families, at 60%, compared to 40% patent families for FoodTech. There is a strong patent concentration throughout this field among Asia. In the overall Agrifood domain, 78% patent families are non-international and based in Asia, while only 12% registered as international patents. Within AgriTech, this trend is even stronger with 85% of patents held by Asian actors being identified as non-international, versus 14% as international. Likewise, for FoodTech 79% of patents remain in Asia, with only 10% being international. These numbers indicate a regional concentration in Agrifood patents, with limited cross-border sharing of intellectual property. Mapping the strategic context in Agrifood, AgriTech and FoodTech with an understanding of the patent landscape and intellectual property strategies is essential for analyzing how key patents and IP holdings shape collaboration and competition within this ecosystem.
 
@@ -349,11 +347,160 @@ Global machinery manufacturers and chemical companies have a strong presence in 
 
 # #GRAPH
 
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+# Charger les bibliothèques nécessaires
+library(ggplot2)
+library(plotly)
+
+# Créer les données à partir du tableau fourni
+data <- data.frame(
+  Applicant_name = c("Deere", "CNH Industrial", "Kubota", "Amazone Werke H Dreyer", "AGCO", "CLAAS", 
+                     "Yanmar Holdings", "BASF", "Honda Motor", "Bayer", "Bucher Industries", 
+                     "Robert Bosch Stiftung", "Lemken", "Horsch Holding", "Yanmar Power Technology", 
+                     "Yara International", "Caterpillar", "Iseki", "Pottinger", "Toyota Motor", 
+                     "Vaederstad Holding", "Sinochem Holdings", "Rauch Landmaschinenfabrik", 
+                     "Zeppelin Stiftung", "Chinese Academy Of Agricultural Sciences", 
+                     "Iseki Agricultural Machinery", "Husqvarna", "Linamar", "Johnson & Johnson", 
+                     "Exel Industries"),
+  Region = c("North America", "Europe", "Asia", "Europe", "North America", "Europe", 
+             "Asia", "Europe", "Asia", "Europe", "Europe", 
+             "Europe", "Europe", "Europe", "Asia", 
+             "Europe", "North America", "Asia", "Europe", "Asia", 
+             "Europe", "Asia", "Europe", 
+             "Europe", "Asia", 
+             "Asia", "Europe", "North America", "North America", 
+             "Europe"),
+  Number_of_patent_families = c(1205, 1088, 736, 728, 474, 358, 
+                                329, 175, 154, 153, 149, 
+                                128, 121, 118, 111, 
+                                111, 105, 95, 81, 78, 
+                                70, 65, 63, 
+                                55, 49, 
+                                49, 48, 48, 47, 
+                                46),
+  Share_since_2019 = c(46.9, 38.5, 53.7, 24.9, 40.7, 42.2, 
+                       54.4, 40.0, 31.2, 44.4, 24.2, 
+                       39.8, 42.1, 63.6, 73.0, 
+                       52.3, 29.5, 78.9, 2.5, 28.2, 
+                       57.1, 27.7, 25.4, 
+                       76.4, 83.7, 
+                       18.4, 22.9, 20.8, 10.6, 
+                       65.2)
+)
+
+# Create the ggplot with annotations for selected actors
+p <- ggplot(data, aes(x = Share_since_2019, y = Number_of_patent_families, color = Region, text = paste(
+    "Applicant:", Applicant_name,
+    "<br>Headquarter location:", Region,
+    "<br>Number of international patent families:", Number_of_patent_families,
+    "<br>Share since 2019 (%):", Share_since_2019
+  ))) +
+  geom_point(size = 3) +
+  
+  # Add smaller highlighted circles for selected actors
+  geom_point(data = subset(data, Applicant_name %in% c("Deere", "CNH Industrial", "Kubota", "Chinese Academy Of Agricultural Sciences", "AGCO", "Amazone Werke H Dreyer", "Honda Motor", "Johnson & Johnson", "BASF", "Bayer", "Yanmar Holdings", "CLAAS", "Horsch Holding", "Iseki")),
+             shape = 21, color = "black", fill = NA, size = 3, stroke = 0.5) +
+  
+  scale_color_manual(values = c("Asia" = "darkgreen", "Europe" = "chartreuse3", "North America" = "grey")) +
+  labs(
+    title = "Top applicants in the Soil and Fertilizer Management Field",
+    x = "Share of the applicant's international patent families filed since 2019 (%)",
+    y = "Number of international patent families",
+    color = ""  # Removes the title of the legend
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  
+  # Customize x and y axes
+  scale_x_continuous(breaks = seq(0, 100, by = 10), limits = c(0, 100), name = "Share of International Patent Families Filed Since 2019 (%)") +
+  scale_y_continuous(breaks = seq(0, 1400, by = 200), limits = c(0, 1400), name = "Number of International Patent Families")
+
+# Add labels for specific actors with nudging to position text next to points
+p <- p +
+  geom_text(data = subset(data, Applicant_name %in% c("Deere", "CNH Industrial", "Kubota", "Chinese Academy Of Agricultural Sciences", "AGCO", "Amazone Werke H Dreyer", "Honda Motor", "Johnson & Johnson", "BASF", "Bayer","Yanmar Holdings", "CLAAS", "Horsch Holding", "Iseki")),
+            aes(label = Applicant_name), 
+            nudge_x = 3, nudge_y = 50, size = 3, color = "grey20")  # Adjust nudge_x and nudge_y as needed
+
+# Convert ggplot to plotly for interactivity
+interactive_plot <- ggplotly(p, tooltip = "text")
+
+# Display the interactive plot
+interactive_plot
+```
+
+
 ### Non-Pesticide Pest and Disease Management
 
 This category is led by agrochemical giants, with BASF and Bayer as leaders. The solutions include innovations like pheromone-based pest control and allelochemical formulations that are available in their Biocontrol portfolio. Asian firms like Shin-Etsu Chemical and Sumitomo Chemical also have patents for inventive ways to control pests. Furthermore, the patent based IP strategies cover developed as well as emerging markets. These companies' patent holdings serve not only to protect the innovation, but they also serve as a barrier to entry for small players, which in turn strengthens the company's control of the market.
 
-# #GRAPH
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+
+# Créer les données à partir du tableau fourni
+data <- data.frame(
+  Applicant_name <- c("Bayer ", "BASF", "Sumitomo Chemical ", "Corteva ", "Sinochem Holdings ", "University of California ", "Novonesis Novozymes ", "Pioneer Hi Bred International ", "US Department of Agriculture ", "S C Johnson & Son ", "Shin Etsu Chemical ", "Centre National De La Recherche Scientifique (CNRS)", "University of Florida ", "Earth ", "Chinese Academy of Agricultural Sciences ", "Seoul Semiconductor ", "Columbia University ", "Inst Natl De Recherche Pour L Agriculture L Aliment & L Env ", "Stanford University ", "FMC Corporation ", "US Department of Health & Human Services ", "Dainippon Jochugiku ", "Woodstream ", "Procter & Gamble ", "Ecolab ", "Locus Solutions ", "KAO", "Massachusetts Institute of Technology (MIT)", "International Flavors & Fragrances ", "University of Texas System ", "Reckitt Benckiser Group ", "Lallemand ", "UPL", "Johnson & Johnson ", "Beijing Dabeinong Technology ", "Bioceres ", "Intron Biotechnology ", "American Vanguard ", "Johns Hopkins University ", "Celularity ", "Fraunhofer ", "E I Du Pont De Nemours ", "Council of Scientific & Industrial Research ", "Boehringer Ingelheim ", "University of Minnesota ", "Agriculture Victoria Services ", "Cornell University ", "Merck Sharp & Dohme ", "Ohio Department of Agriculture ", "Natura ", "Fumakilla ", "Pelsis ", "Abbvie ", "First Pacific ", "State of Israel Ministry of Agriculture & Rural Development Agricultural Research Organization Volcani Center ", "Rentokil Initial ", "Rutgers State University of New Jersey ", "University of North Carolina System ", "Empresa Brasileira De Pesquisa Agropecuaria( Embrapa)", "Henkel ", "Harvard University ", "Kumiai Chemical Industry ", "Idemitsu Kosan ", "Scotts Miracle Gro ", "Weizmann Institute of Science ", "Comyn & Associés ", "Korea Research Institute of Bioscience & Biotechnlogy ", "DSM Firmenich ", "University of Nebraska ", "Duke University ", "Obsand ", "Melchior Mat & Life Science France ", "Greystar Real Estate ", "Isca Global ", "Pivot Bio ", "Thermacell Repellents ", "Sangamo Therapeutics ", "Croda International ", "Mayo Foundation for Medical Education & Research ", "Texas A & M University ", "Zhejiang University ", "Koppert Beheer ", "Council of Scientific & Industrial Research ", "Newleaf Symbiotics ", " Institut National De La Sante & De La Recherche Medicale (INSERM)", "Merck ", "Michigan State University ", "Asahi Group Holdings ", "Scripps Research Institute ", "De Sangosse ", "Auburn University ", "Yale University ", "California Institute of Technology ", "University of Maryland ", "University of North Carolina ", "National Agriculture & Food Research Organization ", "Provieh Ev ", "Discovery Guarantor" ),
+  Region <- c("Germany", "Germany", "Japan", "United States", "China", "United States", "Denmark", "United States", "United States", "United States", "Japan", "France", "United States", "Japan", "China", "Republic of Korea", "United States", "France", "United States", "United States", "United States", "Japan", "United States", "United States", "United States", "United States", "Japan", "United States", "United States", "United States", "United Kingdom", "Canada", "India", "United States", "China", "Argentina", "Republic of Korea", "United States", "United States", "United States", "Germany", "United States", "India", "Germany", "United States", "Australia", "United States", "United States", "United States", "Brazil", "Japan", "United Kingdom", "United States", "Hong Kong", "Israel", "United Kingdom", "United States", "United States", "Brazil", "Germany", "United States", "Japan", "Japan", "United States", "Israel", "France", "Republic of Korea", "Switzerland", "United States", "United States", "United States", "France", "United States", "United States", "United States", "United States", "United States", "United Kingdom", "United States", "United States", "China", "Netherlands", "India", "United States", "France", "United States", "United States", "Japan", "United States", "France", "United States", "United States", "United States", "United States", "United States", "Japan", "Germany", "United States" ),
+  Applicant_type <- c("Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "Company", "Government", "Company", "Company", "University and research institution", "University and research institution", "Company", "University and research institution", "Company", "University and research institution", "University and research institution", "University and research institution", "Company", "Government", "Company", "Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "University and research institution", "Company", "Company", "Company", "Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "University and research institution", "Company", "Government", "Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "University and research institution", "University and research institution", "Company", "Company", "University and research institution", "Company", "Company", "Company", "University and research institution", "Company", "University and research institution", "Company", "University and research institution", "University and research institution", "Company", "Company", "Company", "Company", "Company", "Company", "Company", "Company", "Company", "University and research institution", "University and research institution", "Company", "Company", "Company", "Company", "Company", "University and research institution", "Company", "University and research institution", "Company", "University and research institution", "University and research institution", "University and research institution", "University and research institution", "University and research institution", "University and research institution", "Company", "Company" ),
+  Number_of_patent_families <- c(201, 186, 162, 119, 103, 83, 76, 68, 59, 57, 51, 41, 38, 33, 31, 30, 29, 29, 29, 29, 29, 28, 28, 27, 27, 26, 26, 26, 26, 25, 25, 25, 25, 23, 21, 21, 20, 20, 20, 20, 19, 19, 19, 19, 19, 18, 18, 18, 17, 17, 16, 15, 15, 15, 15, 15, 15, 14, 14, 14, 14, 14, 14, 14, 14, 13, 13, 13, 13, 13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 10, 10 ),
+  Share_since_2019 <- c(21.9, 14, 14.2, 3.4, 30.1, 16.9, 13.2, 19.1, 15.3, 10.5, 37.3, 31.7, 10.5, 33.3, 74.2, 16.7, 20.7, 41.4, 13.8, 20.7, 6.9, 25, 28.6, 14.8, 14.8, 80.8, 61.5, 11.5, 11.5, 8, 28, 60, 60, 0, 33.3, 14.3, 35, 10, 15, 0, 10.5, 5.3, 0, 0, 36.8, 66.7, 22.2, 0, 35.3, 0, 43.8, 13.3, 0, 40, 53.3, 20, 20, 35.7, 14.3, 14.3, 0, 28.6, 28.6, 14.3, 7.1, 7.7, 15.4, 30.8, 30.8, 7.7, 46.2, 76.9, 16.7, 41.7, 100, 41.7, 0, 16.7, 16.7, 0, 75, 9.1, 9.1, 45.5, 9.1, 9.1, 27.3, 9.1, 0, 9.1, 27.3, 0, 9.1, 36.4, 0, 45.5, 60, 20 )
+)
+
+
+# Main ggplot setup with annotations for selected actors
+p <- ggplot(data, aes(
+    x = Share_since_2019,
+    y = Number_of_patent_families,
+    color = Applicant_type,
+    text = paste(
+      "Applicant:", Applicant_name,
+      "<br>Headquarter location:", Region,
+      "<br>Number of international patent families:", Number_of_patent_families,
+      "<br>Share since 2019 (%):", Share_since_2019
+    )
+  )) +
+  geom_point(size = 3) +
+  
+  # Add smaller highlighted circles for selected actors
+  geom_point(
+    data = subset(data, Applicant_name %in% c("Bayer", "BASF", "Sumitomo Chemical", "Corteva", "Sinochem Holdings", 
+                                               "University of California", "Chinese Academy of Agricultural Sciences", 
+                                               "KAO", "Pivot Bio")),
+    shape = 21, color = "black", fill = NA, size = 3, stroke = 0.5
+  ) +
+  
+  scale_color_manual(values = c(
+    "Company" = "chartreuse3",
+    "Government" = "grey",
+    "University and research institution" = "darkgreen"
+  )) +
+  labs(
+    title = "Top Applicants in the Non-pesticide Pest and Disease Management Field",
+    x = "Share of the Applicant's International Patent Families Filed Since 2019 (%)",
+    y = "Number of International Patent Families",
+    color = ""  # Removes the title of the legend
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  
+  # Customize x and y axes
+  scale_x_continuous(breaks = seq(0, 100, by = 10), limits = c(0, 100)) +
+  scale_y_continuous(breaks = seq(0, 250, by = 50), limits = c(0, 250))
+
+# Add labels for specific actors with nudging
+p <- p +
+  geom_text(
+    data = subset(data, Applicant_name %in% c("Bayer", "BASF", "Sumitomo Chemical", "Corteva", "Sinochem Holdings", 
+                                              "University of California", "Chinese Academy of Agricultural Sciences", 
+                                              "KAO", "Pivot Bio")),
+    aes(label = Applicant_name), 
+    nudge_x = 2, nudge_y = 5, size = 3, color = "grey20"
+  )
+
+# Convert ggplot to plotly for interactivity
+interactive_plot <- ggplotly(p, tooltip = "text")
+
+# Display the interactive plot
+interactive_plot
+```
 
 ### Alternative Nutrient Sources for Human Food
 
@@ -392,5 +539,3 @@ IP strategies empowers companies to grow regionally and sector wise. Japanese co
 This IP holdings trend of industrial players against academic institutions impacts the innovation ecosystem. Universities end up with so little IP in areas such as Soil and Fertilizer Management due to this practice that it actually hinders the open sourcing of knowledge. That can suppress collaborative, every-day innovation because industrial IP control limits access to basic technologies. In contrast, Cargill and Nestlé will have their IP in alternative proteins but follow an open innovation model by licensing their IP to smaller firms and startups, establishing a powerful coopetition framework that promotes even more innovation in the ecosystem. This combination of competition and collaboration creates an innovation ecosystem that fosters proprietary knowledge protection coupled with selective sharing to promote growth.
 
 The patent strategies of the top agricultural technology firms reveals a mix of competition and cooperation. As firms have locked critical patents in Soil and Fertilizer Management, Pest Control, Alternative Nutrients, Predictive Models and Autonomous Devices, they maintain their competitive advantage, with high barriers for new entrants. This fortifies international reach, drives partnerships, and powers the innovation landscape in the agriculture ecosystem. Intellectual property protection can restrict open innovation in monopolized sectors, but sharing with licenses and partnerships enables all to grow together. Finally, these are the IP strategies that empower firms to use innovation for the long-term competitive advantage of the company which in turn design the landscape of sustainable and efficient agriculture of the future.
-
-
