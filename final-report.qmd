@@ -113,16 +113,15 @@ Ways to fight the issues of water shortages are going forward; it is very import
 
 As we can see on the timeline, the agricultural industry spans thousands of years, and there are also players in vastly different fields, such as pharmaceuticals, engineering and, quite simply, agriculture itself. So, in order to be able to carry out this work on the timing of strategies, we have no choice this time but to focus on one topic, because there have been hundreds and hundreds of key players and first movers in the history of agriculture. We have decided to focus on the tractor market.
 
-**Ford**’s Fordson and **John Deere**’s Waterloo Boy tractor were the first movers in the early tractor market. A fundamental changing moment in the mechanization of agriculture occurred in 1917 with the introduction of  
+**Ford**’s Fordson and **John Deere**’s Waterloo Boy tractor were the first movers in the early tractor market. A fundamental changing moment in the mechanization of agriculture occurred in 1917 with the introduction of 
 
-# #IMAGES
-
-![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.jpg)
 ![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
 
 
 
 The Fordson, bringing an affordable and large-scale produced tractor. At the time, **John Deere** also entered the market when he bought Waterloo Gasoline Engine Company in 1918 and introduced its Waterloo Boy. These two firms established the building blocks of rapid acceptance and utilization by farmers in the United States, and ultimately around the world.
+
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png)
 
 Fordson’s Timing Strategy was mass production. Using the techniques of mass production, **Ford** was able to change the way that tractors were manufactured. This meant prospects were able to buy Fordson tractors at a fairly low price, which was particularly important as farm mechanization became necessary for the average farmer due to labor shortages during World War I.
 
