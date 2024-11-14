@@ -117,8 +117,9 @@ As we can see on the timeline, the agricultural industry spans thousands of year
 
 # #IMAGES
 
-![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png)
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.jpg)
 ![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
+
 
 
 The Fordson, bringing an affordable and large-scale produced tractor. At the time, **John Deere** also entered the market when he bought Waterloo Gasoline Engine Company in 1918 and introduced its Waterloo Boy. These two firms established the building blocks of rapid acceptance and utilization by farmers in the United States, and ultimately around the world.
