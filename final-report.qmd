@@ -1,0 +1,47 @@
+---
+title: "THE AGRICULTURE INDUSTRY – FINAL REPORT"
+author: "Group Afonso - Antille Emma, Luana Martins Afonso, Sulejman Mustafic"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-expand: 1
+    toc-location: left
+    number-sections: true  
+    toc-depth: 2  
+    theme: lux  # Choix d'un thème visuel (optionnel)
+    css: styles.css  # Fichier CSS pour personnalisation (optionnel)
+    page-layout: full
+    link-external-icon: true
+    link-external-newwindow: true
+    fig-width: 12  
+    fig-height: 10
+---
+
+# Competition and Technological Evolution
+
+## Reasons for Selecting the Agriculture Industry
+
+We have chosen the field of agriculture because it is an area that concerns the whole world and on which the world's population depends for its survival.  Agriculture is also important for countries because it has a direct impact on their economy (via employment, GDP and the food industry). In addition, agriculture faces major challenges, such as population growth, resource scarcity and, above all, global warming, which threatens the survival of certain crops, making it more dependent than ever on innovation. There is also a strong demand (from the publica also) for more sustainable practices, and new practices already exist, sometimes even incorporating AI. It is for these reasons that we have chosen it, as it seems an interesting subject to work on.
+
+## Key Competitive Dynamics
+
+Companies in the agriculture industry such as Bayer continue to dominate through innovation that includes for example genetically modified seeds and precision agriculture technologies. Mergers and acquisitions like Bayer-Monsanto promote more advanced biotechnological solutions with increased corporate control over the market. Each of these organizations provide a lot of input and some maintain an advantage through R&D investments, and by scaling their operations on a global scale.
+
+Family farms and cooperatives are also important players, particularly in local markets. These players often adopt organic or sustainable farming practices, which are their main competitive advantage. For example, cooperatives can focus on economies of scale by pooling their resources to improve market access, particularly for smallholders.
+
+The market is somewhat fragmented. While global giants like Bayer or Syngenta dominate input markets, the production side remains distributed among millions of small, medium, and large-scale producers. In regions like North America and Europe, large agribusinesses hold significant influence, but in developing countries, smallholder farms and cooperatives still account for a large share of production.
+
+Besides, sustainability matters a lot in the agricultural sector. For example, the European Green Deal includes targets for decreasing pesticide use, which pushes this sector toward sustainability-driven innovation. Consumer demand for sustainability is becoming a competitive game changer. Farmers and agribusinesses that design or harmonize their operations with more environmentally friendly practices (e.g., mitigate pesticide input or integrate organic farming) can adapt to environmental regulation and a change in consumer preference. This enables them to gain competitive advantage. Also, the changing weather patterns and resource limitations (particularly water) are forcing agricultural companies to adopt climate-resilient technologies and crops. This is both a challenge and an opportunity, with companies that adapt better, like Syngenta (which focuses on drought-resistant seeds), gaining a competitive edge.
+
+Lastly, rising input costs and labor shortages have been challenges to farm profitability, but both challenges are forcing the farming industry to evolve rapidly with automation and precision agriculture technologies becoming economically viable. For example, fields planted with John Deere automated machinery save money on fertilizer and herbicides due to the use of sensor-based precision application systems.
+
+## Technological Trends
+
+In terms of technological trends, we can see a lot of progress in the last few years in the agriculture industry.
+
+-   **Precision agriculture**: images, drones and sensors to process data in real time, enabling farmers to monitor plant health, manage water use efficiently and apply fertilizer with greater precision.
+-   **Automation and robotics**: robotics are increasingly used in harvesting, weeding and planting. They help to increase efficiency and reduce labor costs, and even reduce the risk of human error by allowing continuous working.
+-   **AI**: they are becoming the main tools for optimizing farming operations. Using AI to oversee big data makes it easier to examine huge datasets, such as soil samples to gain insights into crop management, water saving and predicting the optimum planting period and so helping with reducing environmental impact.
+
