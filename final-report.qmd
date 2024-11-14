@@ -117,6 +117,10 @@ As we can see on the timeline, the agricultural industry spans thousands of year
 
 # #IMAGES
 
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png)
+![Description de l'image](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
+
+
 The Fordson, bringing an affordable and large-scale produced tractor. At the time, **John Deere** also entered the market when he bought Waterloo Gasoline Engine Company in 1918 and introduced its Waterloo Boy. These two firms established the building blocks of rapid acceptance and utilization by farmers in the United States, and ultimately around the world.
 
 Fordson’s Timing Strategy was mass production. Using the techniques of mass production, **Ford** was able to change the way that tractors were manufactured. This meant prospects were able to buy Fordson tractors at a fairly low price, which was particularly important as farm mechanization became necessary for the average farmer due to labor shortages during World War I.
@@ -389,4 +393,4 @@ This IP holdings trend of industrial players against academic institutions impac
 
 The patent strategies of the top agricultural technology firms reveals a mix of competition and cooperation. As firms have locked critical patents in Soil and Fertilizer Management, Pest Control, Alternative Nutrients, Predictive Models and Autonomous Devices, they maintain their competitive advantage, with high barriers for new entrants. This fortifies international reach, drives partnerships, and powers the innovation landscape in the agriculture ecosystem. Intellectual property protection can restrict open innovation in monopolized sectors, but sharing with licenses and partnerships enables all to grow together. Finally, these are the IP strategies that empower firms to use innovation for the long-term competitive advantage of the company which in turn design the landscape of sustainable and efficient agriculture of the future.
 
-### 
+
