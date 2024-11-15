@@ -1,7 +1,6 @@
 library(shiny)
 
 ui <- fluidPage(
-  titlePanel("Agricultural Ecosystem Map"),
   tags$iframe(
     src = "https://kumu.io/ellitna/soi",
     width = "100%",

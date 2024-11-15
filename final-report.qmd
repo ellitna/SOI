@@ -28,208 +28,447 @@ Table of content
 :::
 
 <ul>
-  <li><a href="#competition-and-technological-evolution">1 COMPETITION AND TECHNOLOGICAL EVOLUTION</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#reasons-for-selecting-the-agriculture-industry">1.1 REASONS FOR SELECTING THE AGRICULTURE INDUSTRY</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#key-competitive-dynamics">1.2 KEY COMPETITIVE DYNAMICS</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#technological-trends">1.3 TECHNOLOGICAL TRENDS</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#ecosystem-map">1.4 ECOSYSTEM MAP</a>
-    </li>
-  </ul>
-  <li><a href="#sustainable-innovation">2 SUSTAINABLE INNOVATION</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#sustainability-challenges">2.1 SUSTAINABILITY CHALLENGES</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#water-scarcity">2.1.1 WATER SCARCITY</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#greenhouse-gas-emissions">2.1.2 GREENHOUSE GAS EMISSIONS</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#soil-degradation">2.1.3 SOIL DEGRADATION</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#biodiversity-loss">2.1.4 BIODIVERSITY LOSS</a>
-      </li>
-    </ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#sustainability-opportunities">2.2 SUSTAINABILITY OPPORTUNITIES</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#precision-agriculture">2.2.1 PRECISION AGRICULTURE</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#agroecology-and-regenerative-agriculture">2.2.2 AGROECOLOGY AND REGENERATIVE AGRICULTURE</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#circular-nutrient-management">2.2.3 CIRCULAR NUTRIENT MANAGEMENT</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#water-saving-technologies">2.2.4 WATER-SAVING TECHNOLOGIES</a>
-      </li>
-    </ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#examples-of-sustainable-innovations">2.3 EXAMPLES OF SUSTAINABLE INNOVATIONS</a>
-    </li>
-  </ul>
-  <li><a href="#timing-of-entry">3 TIMING OF ENTRY</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#timeline-of-the-agriculture-industry">3.1 TIMELINE OF THE AGRICULTURE INDUSTRY</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#the-tractor-case">3.2 THE TRACTOR CASE</a>
-    </li>
-  </ul>
-  <li><a href="#innovation-and-experimentation">4 INNOVATION AND EXPERIMENTATION</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#innovation-hubs-and-key-experimentation-centers">4.1 INNOVATION HUBS AND KEY EXPERIMENTATION CENTERS</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#contribution-of-hubs-and-experimentation-centers">4.2 CONTRIBUTION OF HUBS AND EXPERIMENTATION CENTERS</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#precision-agriculture-and-digitalization">4.2.1 PRECISION AGRICULTURE AND DIGITALIZATION</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#product-development-and-testing">4.2.2 PRODUCT DEVELOPMENT AND TESTING</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#capacity-building-and-knowledge">4.2.3 CAPACITY BUILDING AND KNOWLEDGE</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#enhancements-in-productivity-and-sustainability">4.2.4 ENHANCEMENTS IN PRODUCTIVITY AND SUSTAINABILITY</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#sustainability-and-climate-resilience">4.2.5 SUSTAINABILITY AND CLIMATE RESILIENCE</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#regional-development-and-economic-diversification">4.2.6 REGIONAL DEVELOPMENT AND ECONOMIC DIVERSIFICATION</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#market-entry-and-adoption-of-innovations">4.2.7 MARKET ENTRY AND ADOPTION OF INNOVATIONS</a>
-      </li>
-    </ul>
-  </ul>
-  <li><a href="#organizing-for-innovation">5 ORGANIZING FOR INNOVATION</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#organizational-structures-of-agricultural-businesses">5.1 ORGANIZATIONAL STRUCTURES OF AGRICULTURAL BUSINESSES</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#centralized-rd-models">5.1.1 CENTRALIZED R&D MODELS</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#matrix-structures">5.1.2 MATRIX STRUCTURES</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#product-centered-hierarchies">5.1.3 PRODUCT-CENTERED HIERARCHIES</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#customer-focused-regional-models">5.1.4 CUSTOMER-FOCUSED REGIONAL MODELS</a>
-      </li>
-    </ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#impact-of-organizational-structures">5.2 IMPACT OF ORGANIZATIONAL STRUCTURES</a>
-    </li>
-  </ul>
-  <li><a href="#platforms-and-ecosystems">6 PLATFORMS AND ECOSYSTEMS</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#introduction-defining-platforms-and-network-effects">6.1 INTRODUCTION: DEFINING PLATFORMS AND NETWORK EFFECTS</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#key-platforms-operating-in-the-agriculture-ecosystem-worldwide">6.2 KEY PLATFORMS OPERATING IN THE AGRICULTURE ECOSYSTEM (WORLDWIDE)</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#how-platforms-facilitate-interactions-among-ecosystem-participants">6.3 HOW PLATFORMS FACILITATE INTERACTIONS AMONG ECOSYSTEM PARTICIPANTS</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#collaboration-and-knowledge-sharing">6.3.1 COLLABORATION AND KNOWLEDGE SHARING</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#supply-chain-efficiency-and-market-access">6.3.2 SUPPLY CHAIN EFFICIENCY AND MARKET ACCESS</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#financial-and-advisory-services">6.3.3 FINANCIAL AND ADVISORY SERVICES</a>
-      </li>
-    </ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#assessing-the-impact-of-network-effects-on-innovation">6.4 ASSESSING THE IMPACT OF NETWORK EFFECTS ON INNOVATION</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#enhanced-data-collection-and-analytics">6.4.1 ENHANCED DATA COLLECTION AND ANALYTICS</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#accelerated-technology-adoption">6.4.2 ACCELERATED TECHNOLOGY ADOPTION</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#creation-of-complementary-innovations">6.4.3 CREATION OF COMPLEMENTARY INNOVATIONS</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#challenges-of-dominant-platforms">6.4.4 CHALLENGES OF DOMINANT PLATFORMS</a>
-      </li>
-    </ul>
-  </ul>
-  <li><a href="#intellectual-property-strategy">7 INTELLECTUAL PROPERTY STRATEGY</a></li>
-  <ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#ip-strategies-and-their-impact-on-innovation">7.1 IP STRATEGIES AND THEIR IMPACT ON INNOVATION</a>
-    </li>
-    <li style="padding-left: 1.5rem;">
-      <a href="#key-patents-and-ip-holdings-in-agricultural-technology">7.2 KEY PATENTS AND IP HOLDINGS IN AGRICULTURAL TECHNOLOGY</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#soil-and-fertilizer-management">7.2.1 SOIL AND FERTILIZER MANAGEMENT</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#non-pesticide-pest-and-disease-management">7.2.2 NON-PESTICIDE PEST AND DISEASE MANAGEMENT</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#alternative-nutrient-sources-for-human-food">7.2.3 ALTERNATIVE NUTRIENT SOURCES FOR HUMAN FOOD</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#predictive-models-in-precision-agriculture">7.2.4 PREDICTIVE MODELS IN PRECISION AGRICULTURE</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#autonomous-devices-in-precision-agriculture">7.2.5 AUTONOMOUS DEVICES IN PRECISION AGRICULTURE</a>
-      </li>
-    </ul>
-    <li style="padding-left: 1.5rem;">
-      <a href="#influence-of-ip-strategies-on-collaboration-and-competition">7.3 INFLUENCE OF IP STRATEGIES ON COLLABORATION AND COMPETITION</a>
-    </li>
-    <ul>
-      <li style="padding-left: 3rem;">
-        <a href="#competitive-barriers-and-market-leadership">7.3.1 COMPETITIVE BARRIERS AND MARKET LEADERSHIP</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#strategic-collaborations-and-knowledge-sharing">7.3.2 STRATEGIC COLLABORATIONS AND KNOWLEDGE SHARING</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#regional-and-sectoral-expansion">7.3.3 REGIONAL AND SECTORAL EXPANSION</a>
-      </li>
-      <li style="padding-left: 3rem;">
-        <a href="#impact-on-innovation-ecosystem-and-collaboration-models">7.3.4 IMPACT ON INNOVATION ECOSYSTEM AND COLLABORATION MODELS</a>
-      </li>
-    </ul>
-  </ul>
+
+<li><a href="#competition-and-technological-evolution">1 COMPETITION AND TECHNOLOGICAL EVOLUTION</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#reasons-for-selecting-the-agriculture-industry">1.1 REASONS FOR SELECTING THE AGRICULTURE INDUSTRY</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#key-competitive-dynamics">1.2 KEY COMPETITIVE DYNAMICS</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#technological-trends">1.3 TECHNOLOGICAL TRENDS</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#ecosystem-map">1.4 ECOSYSTEM MAP</a>
+
+</li>
+
+</ul>
+
+<li><a href="#sustainable-innovation">2 SUSTAINABLE INNOVATION</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#sustainability-challenges">2.1 SUSTAINABILITY CHALLENGES</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#water-scarcity">2.1.1 WATER SCARCITY</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#greenhouse-gas-emissions">2.1.2 GREENHOUSE GAS EMISSIONS</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#soil-degradation">2.1.3 SOIL DEGRADATION</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#biodiversity-loss">2.1.4 BIODIVERSITY LOSS</a>
+
+</li>
+
+</ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#sustainability-opportunities">2.2 SUSTAINABILITY OPPORTUNITIES</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#precision-agriculture">2.2.1 PRECISION AGRICULTURE</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#agroecology-and-regenerative-agriculture">2.2.2 AGROECOLOGY AND REGENERATIVE AGRICULTURE</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#circular-nutrient-management">2.2.3 CIRCULAR NUTRIENT MANAGEMENT</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#water-saving-technologies">2.2.4 WATER-SAVING TECHNOLOGIES</a>
+
+</li>
+
+</ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#examples-of-sustainable-innovations">2.3 EXAMPLES OF SUSTAINABLE INNOVATIONS</a>
+
+</li>
+
+</ul>
+
+<li><a href="#timing-of-entry">3 TIMING OF ENTRY</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#timeline-of-the-agriculture-industry">3.1 TIMELINE OF THE AGRICULTURE INDUSTRY</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#the-tractor-case">3.2 THE TRACTOR CASE</a>
+
+</li>
+
+</ul>
+
+<li><a href="#innovation-and-experimentation">4 INNOVATION AND EXPERIMENTATION</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#innovation-hubs-map">4.1 INNOVATION HUBS MAP</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#innovation-hubs-and-key-experimentation-centers">4.2 INNOVATION HUBS AND KEY EXPERIMENTATION CENTERS</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#contribution-of-hubs-and-experimentation-centers">4.3 CONTRIBUTION OF HUBS AND EXPERIMENTATION CENTERS</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#precision-agriculture-and-digitalization">4.3.1 PRECISION AGRICULTURE AND DIGITALIZATION</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#product-development-and-testing">4.3.2 PRODUCT DEVELOPMENT AND TESTING</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#capacity-building-and-knowledge">4.3.3 CAPACITY BUILDING AND KNOWLEDGE</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#enhancements-in-productivity-and-sustainability">4.3.4 ENHANCEMENTS IN PRODUCTIVITY AND SUSTAINABILITY</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#sustainability-and-climate-resilience">4.3.5 SUSTAINABILITY AND CLIMATE RESILIENCE</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#regional-development-and-economic-diversification">4.3.6 REGIONAL DEVELOPMENT AND ECONOMIC DIVERSIFICATION</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#market-entry-and-adoption-of-innovations">4.3.7 MARKET ENTRY AND ADOPTION OF INNOVATIONS</a>
+
+</li>
+
+</ul>
+
+</ul>
+
+<li><a href="#organizing-for-innovation">5 ORGANIZING FOR INNOVATION</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#organizational-structures-of-agricultural-businesses">5.1 ORGANIZATIONAL STRUCTURES OF AGRICULTURAL BUSINESSES</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#centralized-rd-models">5.1.1 CENTRALIZED R&D MODELS</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#matrix-structures">5.1.2 MATRIX STRUCTURES</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#product-centered-hierarchies">5.1.3 PRODUCT-CENTERED HIERARCHIES</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#customer-focused-regional-models">5.1.4 CUSTOMER-FOCUSED REGIONAL MODELS</a>
+
+</li>
+
+</ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#impact-of-organizational-structures">5.2 IMPACT OF ORGANIZATIONAL STRUCTURES</a>
+
+</li>
+
+</ul>
+
+<li><a href="#platforms-and-ecosystems">6 PLATFORMS AND ECOSYSTEMS</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#introduction-defining-platforms-and-network-effects">6.1 INTRODUCTION: DEFINING PLATFORMS AND NETWORK EFFECTS</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#key-platforms-operating-in-the-agriculture-ecosystem-worldwide">6.2 KEY PLATFORMS OPERATING IN THE AGRICULTURE ECOSYSTEM (WORLDWIDE)</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#how-platforms-facilitate-interactions-among-ecosystem-participants">6.3 HOW PLATFORMS FACILITATE INTERACTIONS AMONG ECOSYSTEM PARTICIPANTS</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#collaboration-and-knowledge-sharing">6.3.1 COLLABORATION AND KNOWLEDGE SHARING</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#supply-chain-efficiency-and-market-access">6.3.2 SUPPLY CHAIN EFFICIENCY AND MARKET ACCESS</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#financial-and-advisory-services">6.3.3 FINANCIAL AND ADVISORY SERVICES</a>
+
+</li>
+
+</ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#assessing-the-impact-of-network-effects-on-innovation">6.4 ASSESSING THE IMPACT OF NETWORK EFFECTS ON INNOVATION</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#enhanced-data-collection-and-analytics">6.4.1 ENHANCED DATA COLLECTION AND ANALYTICS</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#accelerated-technology-adoption">6.4.2 ACCELERATED TECHNOLOGY ADOPTION</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#creation-of-complementary-innovations">6.4.3 CREATION OF COMPLEMENTARY INNOVATIONS</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#challenges-of-dominant-platforms">6.4.4 CHALLENGES OF DOMINANT PLATFORMS</a>
+
+</li>
+
+</ul>
+
+</ul>
+
+<li><a href="#intellectual-property-strategy">7 INTELLECTUAL PROPERTY STRATEGY</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#ip-strategies-and-their-impact-on-innovation">7.1 IP STRATEGIES AND THEIR IMPACT ON INNOVATION</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#key-patents-and-ip-holdings-in-agricultural-technology">7.2 KEY PATENTS AND IP HOLDINGS IN AGRICULTURAL TECHNOLOGY</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#soil-and-fertilizer-management">7.2.1 SOIL AND FERTILIZER MANAGEMENT</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#non-pesticide-pest-and-disease-management">7.2.2 NON-PESTICIDE PEST AND DISEASE MANAGEMENT</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#alternative-nutrient-sources-for-human-food">7.2.3 ALTERNATIVE NUTRIENT SOURCES FOR HUMAN FOOD</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#predictive-models-in-precision-agriculture">7.2.4 PREDICTIVE MODELS IN PRECISION AGRICULTURE</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#autonomous-devices-in-precision-agriculture">7.2.5 AUTONOMOUS DEVICES IN PRECISION AGRICULTURE</a>
+
+</li>
+
+</ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#influence-of-ip-strategies-on-collaboration-and-competition">7.3 INFLUENCE OF IP STRATEGIES ON COLLABORATION AND COMPETITION</a>
+
+</li>
+
+<ul>
+
+<li style="padding-left: 3rem;">
+
+<a href="#competitive-barriers-and-market-leadership">7.3.1 COMPETITIVE BARRIERS AND MARKET LEADERSHIP</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#strategic-collaborations-and-knowledge-sharing">7.3.2 STRATEGIC COLLABORATIONS AND KNOWLEDGE SHARING</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#regional-and-sectoral-expansion">7.3.3 REGIONAL AND SECTORAL EXPANSION</a>
+
+</li>
+
+<li style="padding-left: 3rem;">
+
+<a href="#impact-on-innovation-ecosystem-and-collaboration-models">7.3.4 IMPACT ON INNOVATION ECOSYSTEM AND COLLABORATION MODELS</a>
+
+</li>
+
+</ul>
+
+</ul>
+
+<!-- Section 8 réservée -->
+
+<li><a href="#8" class="h1">8 \[TITLE OF FUTURE SECTION\]</a></li>
+
+<ul>
+
+<!-- À remplir ultérieurement -->
+
+</ul>
+
+<!-- Section 9 References -->
+
+<li><a href="#references">9 REFERENCES</a></li>
+
+<ul>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#text-references">9.1 TEXT REFERENCES</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#images-and-graphs">9.2 IMAGES AND GRAPHS</a>
+
+</li>
+
+</ul>
+
 </ul>
 ::::
 
@@ -239,7 +478,7 @@ Table of content
 
 We have chosen the field of agriculture because it is an area that concerns the whole world and on which the world's population depends for its survival.  Agriculture is also important for countries because it has a direct impact on their economy (via employment, GDP and the food industry). In addition, agriculture faces major challenges, such as population growth, resource scarcity and, above all, global warming, which threatens the survival of certain crops, making it more dependent than ever on innovation. There is also a strong demand (from the public also) for more sustainable practices, and new practices already exist, sometimes even incorporating AI. It is for these reasons that we have chosen it, as it seems an interesting subject to work on.
 
-![Figure 1: Environmental Impacts of Food and Agriculture (2018)](https://raw.githubusercontent.com/ellitna/SOI/main/images/impact.png){width="700"}
+![Figure [1](#ref1): Environmental Impacts of Food and Agriculture (2018).](https://raw.githubusercontent.com/ellitna/SOI/main/images/impact.png){#fig:impact width="700px"}
 
 ## Key Competitive Dynamics {#key-competitive-dynamics}
 
@@ -268,7 +507,7 @@ In terms of technological trends, we can see a lot of progress in the last few y
 
 </iframe>
 
-**Figure 2**: Interactive map of the agricultural ecosystem
+**Figure [2](#ref2)**: Interactive map of the agricultural ecosystem
 :::
 
 # Sustainable Innovation {#sustainable-innovation}
@@ -277,24 +516,42 @@ In terms of technological trends, we can see a lot of progress in the last few y
 
 Agricultural sustainable challenges stem largely from reliance on natural resources and vulnerability to climate change. Few of the major challenges are the following:
 
+<div>
+
+<iframe src="https://ellitna.shinyapps.io/warming/" width="100%" height="600px" frameborder="0">
+
+</iframe>
+
+**Figure [3](#ref3)**: Contribution to global mean surface temperature rise from agriculture (2022)
+
+</div>
+
 ### Water Scarcity
 
 One of the greatest threats to sustainable agriculture is water. Agriculture is the biggest user of freshwater, accounting for 70% of total global water withdrawals. Climate change has exacerbated the problem of water scarcity and turned it into a potential looming disaster for regions like California, India and parts of Africa and the Middle East. In particular, water-intensive crops like tree nuts and groundnuts, which locally intensify blue water stress up to 63% of the nut production under severely stressed conditions. For this, farmers should resort to water-efficient irrigation like drip irrigation and adopt technology for recycling of wastewater.
 
-#FIGURE2 \![Figure 3: Agricultural water use as a share of total water withdrawals (2020)\]
+<div>
+
+<iframe src="https://ellitna.shinyapps.io/water-use/" width="100%" height="600px" frameborder="0">
+
+</iframe>
+
+**Figure [4](#ref4)**: Annual freshwater withdrawals by country (2020)
+
+</div>
 
 ### Greenhouse Gas Emissions
 
 Agricultural emissions contribute to over 12% of global Green Gas emissions, mainly from methane emissions from livestock and nitrous oxide coming from fertilizers. Fertilizers are key for soil fertility but contribute a lot of greenhouse gases while conventional farming (i.e., monocropping) often further exacerbates it. One of agriculture's biggest sustainability challenges is the desire to mitigate these emissions without compromising agricultural productivity.
 
-![Figure 4: Greenhouse gas emissions by sector globally (1990–2020)](https://raw.githubusercontent.com/ellitna/SOI/main/images/emission.png){width="600"}
+![Figure [5](#ref5): Greenhouse gas emissions by sector globally (1990–2020)](https://raw.githubusercontent.com/ellitna/SOI/main/images/emission.png){width="600"}
 
 :::: {style="display: flex; flex-direction: column; align-items: left;"}
 ::: {style="display: flex; justify-content: center;"}
 <img src="https://raw.githubusercontent.com/ellitna/SOI/main/images/methane.png" alt="Methane Emissions" width="500" style="margin-right: 10px;"/> <img src="https://raw.githubusercontent.com/ellitna/SOI/main/images/nitrous.png" alt="Nitrous Oxide Emissions" width="500"/>
 :::
 
-**Figure 5**: Global methane and nitrous oxide emissions by sector (2023)
+**Figure [6](#ref6)**: Global methane and nitrous oxide emissions by sector (2023)
 ::::
 
 ### Soil Degradation
@@ -339,7 +596,7 @@ Ways to fight the issues of water shortages are going forward; it is very import
 
 ## Timeline of the Agriculture Industry
 
-![Figure 6: Timeline of the agriculture industry](https://raw.githubusercontent.com/ellitna/SOI/main/images/timeline.png)
+![Figure [7](#ref7): Timeline of the agriculture industry](https://raw.githubusercontent.com/ellitna/SOI/main/images/timeline.png)
 
 ## The tractor case
 
@@ -347,11 +604,11 @@ As we can see on the timeline, the agricultural industry spans thousands of year
 
 **Ford**’s Fordson and **John Deere**’s Waterloo Boy tractor were the first movers in the early tractor market. A fundamental changing moment in the mechanization of agriculture occurred in 1917 with the introduction of
 
-![Figure 7: Picture of a Fordson tractor](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
+![Figure [8](#ref8): Picture of a Fordson tractor](https://raw.githubusercontent.com/ellitna/SOI/main/images/fordson.png)
 
 The Fordson, bringing an affordable and large-scale produced tractor. At the time, **John Deere** also entered the market when he bought Waterloo Gasoline Engine Company in 1918 and introduced its Waterloo Boy. These two firms established the building blocks of rapid acceptance and utilization by farmers in the United States, and ultimately around the world.
 
-![Figure 8: Picture of a Waterloo Boy tractor](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png){width="586"}
+![Figure [9](#ref9): Picture of a Waterloo Boy tractor](https://raw.githubusercontent.com/ellitna/SOI/main/images/waterloo.png){width="586"}
 
 Fordson’s Timing Strategy was mass production. Using the techniques of mass production, **Ford** was able to change the way that tractors were manufactured. This meant prospects were able to buy Fordson tractors at a fairly low price, which was particularly important as farm mechanization became necessary for the average farmer due to labor shortages during World War I.
 
@@ -383,13 +640,15 @@ To conclude, timing strategies have proven in the tractor market to not necessar
 
 # Innovation and Experimentation {#innovation-and-experimentation}
 
+## Innovation Hubs Map
+
 <div>
 
 <iframe src="https://ellitna.shinyapps.io/InnovationHubsMap/" width="100%" height="600px" frameborder="0">
 
 </iframe>
 
-**Figure 9**: Interactive Innovation Hubs Map
+**Figure [10](#ref10)**: Interactive Innovation Hubs Map
 
 </div>
 
@@ -569,9 +828,9 @@ In response to these challenges, regulators and policymakers will need to set gu
 
 The Agrifood sector is a major segment of the innovation system with over 3.5 million patent families published in the last 20 years. Agrifood is divided into two main categories: AgriTech and FoodTech. It turns out the AgriTech sub-domain contributes to the vast majority of patent families, at 60%, compared to 40% patent families for FoodTech. There is a strong patent concentration throughout this field among Asia. In the overall Agrifood domain, 78% patent families are non-international and based in Asia, while only 12% registered as international patents. Within AgriTech, this trend is even stronger with 85% of patents held by Asian actors being identified as non-international, versus 14% as international. Likewise, for FoodTech 79% of patents remain in Asia, with only 10% being international. These numbers indicate a regional concentration in Agrifood patents, with limited cross-border sharing of intellectual property. Mapping the strategic context in Agrifood, AgriTech and FoodTech with an understanding of the patent landscape and intellectual property strategies is essential for analyzing how key patents and IP holdings shape collaboration and competition within this ecosystem.
 
-![Figure 10: Number of Patent Families for Agrifood, AgriTech, and FoodTech (2024)](https://raw.githubusercontent.com/ellitna/SOI/main/images/graph1IPS.png)
+![Figure [11](#ref11): Number of Patent Families for Agrifood, AgriTech, and FoodTech (2024)](https://raw.githubusercontent.com/ellitna/SOI/main/images/graph1IPS.png)
 
-![Figure 11: Share of International Patent Families in Agrifood, AgriTech, and FoodTech (2024)](https://raw.githubusercontent.com/ellitna/SOI/main/images/graph2ips.png)
+![Figure [12](#ref12): Share of International Patent Families in Agrifood, AgriTech, and FoodTech (2024)](https://raw.githubusercontent.com/ellitna/SOI/main/images/graph2ips.png)
 
 ## Key Patents and IP Holdings in Agricultural Technology
 
@@ -660,7 +919,7 @@ interactive_plot <- ggplotly(p, tooltip = "text")
 interactive_plot
 ```
 
-**Figure 12**: Top Applicants in Soil and Fertilizer Management by Region and Patent Families (Since 2019)
+**Figure** [13](#ref13): Top Applicants in Soil and Fertilizer Management by Region and Patent Families (Since 2019)
 
 ### Non-Pesticide Pest and Disease Management
 
@@ -720,7 +979,7 @@ interactive_plot
 
 ```
 
-**Figure 13**: Top applicants in the Non-pesticide pest and disease management field (Since 2019)
+**Figure [14](#ref14)**: Top applicants in the Non-pesticide pest and disease management field (Since 2019)
 
 ### Alternative Nutrient Sources for Human Food
 
@@ -777,7 +1036,7 @@ interactive_plot <- ggplotly(p, tooltip = "text")
 interactive_plot
 ```
 
-**Figure 14**: Top applicants in the Alternative nutrient sources for human food field (Since 2019)
+**Figure [15](#ref15)**: Top applicants in the Alternative nutrient sources for human food field (Since 2019)
 
 ### Predictive Models in Precision Agriculture
 
@@ -833,7 +1092,7 @@ interactive_plot
 
 ```
 
-**Figure 15**: Top applicants in the Predictive models in precision agriculture field (Since 2019)
+**Figure [16](#ref16)**: Top applicants in the Predictive models in precision agriculture field (Since 2019)
 
 ### Autonomous Devices in Precision Agriculture
 
@@ -890,7 +1149,7 @@ interactive_plot
 
 ```
 
-**Figure 16**: Top applicants in the Autonomous devices in precision agriculture field (Since 2019)
+**Figure [17](#ref17)**: Top applicants in the Autonomous devices in precision agriculture field (Since 2019)
 
 ## Influence of IP Strategies on Collaboration and Competition
 
@@ -911,3 +1170,79 @@ IP strategies empowers companies to grow regionally and sector wise. Japanese co
 This IP holdings trend of industrial players against academic institutions impacts the innovation ecosystem. Universities end up with so little IP in areas such as Soil and Fertilizer Management due to this practice that it actually hinders the open sourcing of knowledge. That can suppress collaborative, every-day innovation because industrial IP control limits access to basic technologies. In contrast, Cargill and Nestlé will have their IP in alternative proteins but follow an open innovation model by licensing their IP to smaller firms and startups, establishing a powerful coopetition framework that promotes even more innovation in the ecosystem. This combination of competition and collaboration creates an innovation ecosystem that fosters proprietary knowledge protection coupled with selective sharing to promote growth.
 
 The patent strategies of the top agricultural technology firms reveals a mix of competition and cooperation. As firms have locked critical patents in Soil and Fertilizer Management, Pest Control, Alternative Nutrients, Predictive Models and Autonomous Devices, they maintain their competitive advantage, with high barriers for new entrants. This fortifies international reach, drives partnerships, and powers the innovation landscape in the agriculture ecosystem. Intellectual property protection can restrict open innovation in monopolized sectors, but sharing with licenses and partnerships enables all to grow together. Finally, these are the IP strategies that empower firms to use innovation for the long-term competitive advantage of the company which in turn design the landscape of sustainable and efficient agriculture of the future.
+
+# 8
+
+# References
+
+## Text References
+
+## Images and Graphs
+
+::: {#ref1}
+Figure 1 blablabla https://ourworldindata.org/environmental-impacts-of-food 
+:::
+
+::: {#ref2}
+Figure 2 blablabla 
+:::
+
+::: {#ref3}
+Figure 3 blablabla https://ourworldindata.org/grapher/global-warming-land 
+:::
+
+::: {#ref4}
+Figure 4 blablabla https://ourworldindata.org/water-use-stress 
+:::
+
+::: {#ref5}
+Figure 5 blablabla https://ourworldindata.org/emissions-by-sector 
+:::
+
+::: {#ref6}
+Figure 6 blablabla https://ourworldindata.org/emissions-by-sector 
+:::
+
+::: {#ref7}
+Figure 7 blablabla ours
+:::
+
+::: {#ref8}
+Figure 8 blablabla https://www.thwhite.co.uk/wordpress/wp-content/uploads/2017/02/Fordson-F_3.jpg 
+:::
+
+::: {#ref9}
+Figure 9 blablabla https://s.wsj.net/public/resources/images/B3-BP731_RUMBLE_M_20180905160536.jpg 
+:::
+
+::: {#ref10}
+Figure 10 blablabla
+:::
+
+::: {#ref11}
+Figure 11 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html
+:::
+
+::: {#ref12}
+Figure 12 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html
+:::
+
+::: {#ref13}
+Figure 13 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/3-soil-and-fertilizer-management.html#h2-top-players 
+:::
+
+::: {#ref14}
+Figure 14 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/4-non-pesticide-pest-and-disease-management.html#h2-top-players 
+:::
+
+::: {#ref15}
+Figure 15 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/5-alternative-nutrient-sources-for-human-food.html#h2-top-players 
+:::
+
+::: {#ref16}
+Figure 16 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/6-predictive-models-in-precision-agriculture.html#h2-top-players 
+:::
+
+::: {#ref17}
+Figure 17 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/7-autonomous-devices-in-precision-agriculture.html#h2-top-players 
+:::

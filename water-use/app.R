@@ -1,7 +1,7 @@
 library(shiny)
 ui <- fluidPage(
   tags$iframe(
-    src = "https://kumu.io/ellitna/soi#innovation-hubs-map",
+    src = "https://ourworldindata.org/grapher/annual-freshwater-withdrawals",
     width = "100%",
     height = "600px",
     frameborder = "0"
