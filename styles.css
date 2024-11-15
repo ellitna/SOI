@@ -1,0 +1,66 @@
+/* styles.css */
+/* styles.css */
+.main-toc {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #333;
+}
+
+.main-toc .contents-title {
+  font-weight: 500; /* Style plus fin */
+  font-size: 2rem; /* Taille similaire aux titres du thème Lux */
+  color: #004d00;
+  margin-bottom: 1rem;
+
+}
+.main-toc ul {
+  list-style-type: none;
+  padding-left: 0;
+  padding-left: 1rem;
+}
+
+.main-toc li {
+  margin-bottom: 0.5rem;
+}
+
+.main-toc li a {
+  text-decoration: none !important;
+  color: #333 !important;
+}
+
+.main-toc li a:hover {
+  text-decoration: underline;
+}
+
+.main-toc .toc-level-1 {
+  font-weight: bold;
+  padding-left: 1;
+}
+
+.main-toc .toc-level-2 {
+  padding-left: 2rem;
+  font-weight: normal;
+}
+
+.main-toc .toc-level-3 {
+  padding-left: 4rem;
+  font-weight: normal;
+}
+
+/* Progressive shades of green for headers */
+h1 {
+  color: #004d00; /* Dark green for main titles */
+}
+
+h2 {
+  color: #007300; /* Slightly lighter green */
+}
+
+h3 {
+  color: #009900; /* Medium green */
+}
+
+h4 {
+  color: #00b300; /* Light green */
+}
