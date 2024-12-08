@@ -5,7 +5,7 @@ account: ellitna
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13336723
-bundleId: 9370291
+bundleId: 9406489
 url: https://ellitna.shinyapps.io/InnovationHubsMap/
 version: 1
 asMultiple: FALSE

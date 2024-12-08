@@ -2,7 +2,7 @@ library(shiny)
 
 ui <- fluidPage(
   tags$iframe(
-    src = "https://kumu.io/ellitna/soi",
+    src = "https://embed.kumu.io/24cbe1a93f40804f80cbdb53ea034d2d",
     width = "100%",
     height = "600px",
     frameborder = "0"

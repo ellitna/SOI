@@ -7,6 +7,7 @@ author: "Group Afonso - Emma Antille, Luana Martins Afonso, Sulejman Mustafic"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 format:
   html:
+    include-after-body: _footer.html
     toc: true
     toc-title: Table of content
     toc-expand: 1
@@ -29,43 +30,37 @@ Table of content
 
 <ul>
 
-<li><a href="#competition-and-technological-evolution">1 COMPETITION AND TECHNOLOGICAL EVOLUTION</a></li>
+<li><a href="#competition-and-technological-evolution">1 Competition and Technological Evolution</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#reasons-for-selecting-the-agriculture-industry">1.1 REASONS FOR SELECTING THE AGRICULTURE INDUSTRY</a>
+<a href="#reasons-for-selecting-the-agriculture-industry">1.1 Reasons for Selecting the Agriculture Industry</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#key-competitive-dynamics">1.2 KEY COMPETITIVE DYNAMICS</a>
+<a href="#key-competitive-dynamics">1.2 Key Competitive Dynamics</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#technological-trends">1.3 TECHNOLOGICAL TRENDS</a>
-
-</li>
-
-<li style="padding-left: 1.5rem;">
-
-<a href="#ecosystem-map">1.4 ECOSYSTEM MAP</a>
+<a href="#ecosystem-map">1.3 Ecosystem Map</a>
 
 </li>
 
 </ul>
 
-<li><a href="#sustainable-innovation">2 SUSTAINABLE INNOVATION</a></li>
+<li><a href="#sustainable-innovation">2 Sustainable Innovation</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#sustainability-challenges">2.1 SUSTAINABILITY CHALLENGES</a>
+<a href="#sustainability-challenges">2.1 Sustainability Challenges</a>
 
 </li>
 
@@ -73,25 +68,25 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#water-scarcity">2.1.1 WATER SCARCITY</a>
+<a href="#water-scarcity">2.1.1 Water Scarcity</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#greenhouse-gas-emissions">2.1.2 GREENHOUSE GAS EMISSIONS</a>
+<a href="#greenhouse-gas-emissions">2.1.2 Greenhouse Gas Emissions</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#soil-degradation">2.1.3 SOIL DEGRADATION</a>
+<a href="#soil-degradation">2.1.3 Soil Degradation</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#biodiversity-loss">2.1.4 BIODIVERSITY LOSS</a>
+<a href="#biodiversity-loss">2.1.4 Biodiversity Loss</a>
 
 </li>
 
@@ -99,7 +94,7 @@ Table of content
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#sustainability-opportunities">2.2 SUSTAINABILITY OPPORTUNITIES</a>
+<a href="#sustainability-opportunities">2.2 Sustainability Opportunities</a>
 
 </li>
 
@@ -107,25 +102,25 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#precision-agriculture">2.2.1 PRECISION AGRICULTURE</a>
+<a href="#precision-agriculture">2.2.1 Precision Agriculture</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#agroecology-and-regenerative-agriculture">2.2.2 AGROECOLOGY AND REGENERATIVE AGRICULTURE</a>
+<a href="#agroecology-and-regenerative-agriculture">2.2.2 Agroecology and Regenerative Agriculture</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#circular-nutrient-management">2.2.3 CIRCULAR NUTRIENT MANAGEMENT</a>
+<a href="#circular-nutrient-management">2.2.3 Circular Nutrient Management</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#water-saving-technologies">2.2.4 WATER-SAVING TECHNOLOGIES</a>
+<a href="#water-saving-technologies">2.2.4 Water-Saving Technologies</a>
 
 </li>
 
@@ -133,49 +128,43 @@ Table of content
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#examples-of-sustainable-innovations">2.3 EXAMPLES OF SUSTAINABLE INNOVATIONS</a>
+<a href="#examples-of-sustainable-innovations">2.3 Examples of Sustainable Innovations</a>
 
 </li>
 
 </ul>
 
-<li><a href="#timing-of-entry">3 TIMING OF ENTRY</a></li>
+<li><a href="#timing-of-entry">3 Timing of Entry</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#timeline-of-the-agriculture-industry">3.1 TIMELINE OF THE AGRICULTURE INDUSTRY</a>
+<a href="#timeline-of-the-agriculture-industry">3.1 Timeline of the Agriculture Industry</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#the-tractor-case">3.2 THE TRACTOR CASE</a>
+<a href="#the-tractor-case">3.2 The Tractor Case</a>
 
 </li>
 
 </ul>
 
-<li><a href="#innovation-and-experimentation">4 INNOVATION AND EXPERIMENTATION</a></li>
+<li><a href="#innovation-and-experimentation">4 Innovation and Experimentation</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#innovation-hubs-map">4.1 INNOVATION HUBS MAP</a>
+<a href="#innovation-hubs-map">4.1 Innovation Hubs Map</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#innovation-hubs-and-key-experimentation-centers">4.2 INNOVATION HUBS AND KEY EXPERIMENTATION CENTERS</a>
-
-</li>
-
-<li style="padding-left: 1.5rem;">
-
-<a href="#contribution-of-hubs-and-experimentation-centers">4.3 CONTRIBUTION OF HUBS AND EXPERIMENTATION CENTERS</a>
+<a href="#contribution-of-hubs-and-experimentation-centers">4.2 Contribution of Hubs and Experimentation Centers</a>
 
 </li>
 
@@ -183,43 +172,43 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#precision-agriculture-and-digitalization">4.3.1 PRECISION AGRICULTURE AND DIGITALIZATION</a>
+<a href="#precision-agriculture-and-digitalization">4.2.1 Precision Agriculture and Digitalization</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#product-development-and-testing">4.3.2 PRODUCT DEVELOPMENT AND TESTING</a>
+<a href="#product-development-and-testing">4.2.2 Product Development and Testing</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#capacity-building-and-knowledge">4.3.3 CAPACITY BUILDING AND KNOWLEDGE</a>
+<a href="#capacity-building-and-knowledge">4.2.3 Capacity Building and Knowledge</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#enhancements-in-productivity-and-sustainability">4.3.4 ENHANCEMENTS IN PRODUCTIVITY AND SUSTAINABILITY</a>
+<a href="#enhancements-in-productivity-and-sustainability">4.2.4 Enhancements in Productivity and Sustainability</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#sustainability-and-climate-resilience">4.3.5 SUSTAINABILITY AND CLIMATE RESILIENCE</a>
+<a href="#sustainability-and-climate-resilience">4.2.5 Sustainability and Climate Resilience</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#regional-development-and-economic-diversification">4.3.6 REGIONAL DEVELOPMENT AND ECONOMIC DIVERSIFICATION</a>
+<a href="#regional-development-and-economic-diversification">4.2.6 Regional Development and Economic Diversification</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#market-entry-and-adoption-of-innovations">4.3.7 MARKET ENTRY AND ADOPTION OF INNOVATIONS</a>
+<a href="#market-entry-and-adoption-of-innovations">4.2.7 Market Entry and Adoption of Innovations</a>
 
 </li>
 
@@ -227,71 +216,25 @@ Table of content
 
 </ul>
 
-<li><a href="#organizing-for-innovation">5 ORGANIZING FOR INNOVATION</a></li>
+<li><a href="#platforms-and-ecosystems">5 Platforms and Ecosystems</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#organizational-structures-of-agricultural-businesses">5.1 ORGANIZATIONAL STRUCTURES OF AGRICULTURAL BUSINESSES</a>
-
-</li>
-
-<ul>
-
-<li style="padding-left: 3rem;">
-
-<a href="#centralized-rd-models">5.1.1 CENTRALIZED R&D MODELS</a>
-
-</li>
-
-<li style="padding-left: 3rem;">
-
-<a href="#matrix-structures">5.1.2 MATRIX STRUCTURES</a>
-
-</li>
-
-<li style="padding-left: 3rem;">
-
-<a href="#product-centered-hierarchies">5.1.3 PRODUCT-CENTERED HIERARCHIES</a>
-
-</li>
-
-<li style="padding-left: 3rem;">
-
-<a href="#customer-focused-regional-models">5.1.4 CUSTOMER-FOCUSED REGIONAL MODELS</a>
-
-</li>
-
-</ul>
-
-<li style="padding-left: 1.5rem;">
-
-<a href="#impact-of-organizational-structures">5.2 IMPACT OF ORGANIZATIONAL STRUCTURES</a>
-
-</li>
-
-</ul>
-
-<li><a href="#platforms-and-ecosystems">6 PLATFORMS AND ECOSYSTEMS</a></li>
-
-<ul>
-
-<li style="padding-left: 1.5rem;">
-
-<a href="#introduction-defining-platforms-and-network-effects">6.1 INTRODUCTION: DEFINING PLATFORMS AND NETWORK EFFECTS</a>
+<a href="#introduction-defining-platforms-and-network-effects">5.1 Introduction: Defining Platforms and Network Effects</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#key-platforms-operating-in-the-agriculture-ecosystem-worldwide">6.2 KEY PLATFORMS OPERATING IN THE AGRICULTURE ECOSYSTEM (WORLDWIDE)</a>
+<a href="#key-platforms-operating-in-the-agriculture-ecosystem-worldwide">5.2 Key Platforms Operating in the Agriculture Ecosystem (Worldwide)</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#how-platforms-facilitate-interactions-among-ecosystem-participants">6.3 HOW PLATFORMS FACILITATE INTERACTIONS AMONG ECOSYSTEM PARTICIPANTS</a>
+<a href="#how-platforms-facilitate-interactions-among-ecosystem-participants">5.3 How Platforms Facilitate Interactions Among Ecosystem Participants</a>
 
 </li>
 
@@ -299,19 +242,19 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#collaboration-and-knowledge-sharing">6.3.1 COLLABORATION AND KNOWLEDGE SHARING</a>
+<a href="#collaboration-and-knowledge-sharing">5.3.1 Collaboration and Knowledge Sharing</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#supply-chain-efficiency-and-market-access">6.3.2 SUPPLY CHAIN EFFICIENCY AND MARKET ACCESS</a>
+<a href="#supply-chain-efficiency-and-market-access">5.3.2 Supply Chain Efficiency and Market Access</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#financial-and-advisory-services">6.3.3 FINANCIAL AND ADVISORY SERVICES</a>
+<a href="#financial-and-advisory-services">5.3.3 Financial and Advisory Services</a>
 
 </li>
 
@@ -319,7 +262,7 @@ Table of content
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#assessing-the-impact-of-network-effects-on-innovation">6.4 ASSESSING THE IMPACT OF NETWORK EFFECTS ON INNOVATION</a>
+<a href="#assessing-the-impact-of-network-effects-on-innovation">5.4 Assessing the Impact of Network Effects on Innovation</a>
 
 </li>
 
@@ -327,25 +270,25 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#enhanced-data-collection-and-analytics">6.4.1 ENHANCED DATA COLLECTION AND ANALYTICS</a>
+<a href="#enhanced-data-collection-and-analytics">5.4.1 Enhanced Data Collection and Analytics</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#accelerated-technology-adoption">6.4.2 ACCELERATED TECHNOLOGY ADOPTION</a>
+<a href="#accelerated-technology-adoption">5.4.2 Accelerated Technology Adoption</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#creation-of-complementary-innovations">6.4.3 CREATION OF COMPLEMENTARY INNOVATIONS</a>
+<a href="#creation-of-complementary-innovations">5.4.3 Creation of Complementary Innovations</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#challenges-of-dominant-platforms">6.4.4 CHALLENGES OF DOMINANT PLATFORMS</a>
+<a href="#challenges-of-dominant-platforms">5.4.4 Challenges of Dominant Platforms</a>
 
 </li>
 
@@ -353,19 +296,19 @@ Table of content
 
 </ul>
 
-<li><a href="#intellectual-property-strategy">7 INTELLECTUAL PROPERTY STRATEGY</a></li>
+<li><a href="#intellectual-property-strategy">6 Intellectual Property Strategy</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#ip-strategies-and-their-impact-on-innovation">7.1 IP STRATEGIES AND THEIR IMPACT ON INNOVATION</a>
+<a href="#ip-strategies-and-their-impact-on-innovation">6.1 IP Strategies and Their Impact on Innovation</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#key-patents-and-ip-holdings-in-agricultural-technology">7.2 KEY PATENTS AND IP HOLDINGS IN AGRICULTURAL TECHNOLOGY</a>
+<a href="#key-patents-and-ip-holdings-in-agricultural-technology">6.2 Key Patents and IP Holdings in Agricultural Technology</a>
 
 </li>
 
@@ -373,31 +316,31 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#soil-and-fertilizer-management">7.2.1 SOIL AND FERTILIZER MANAGEMENT</a>
+<a href="#soil-and-fertilizer-management">6.2.1 Soil and Fertilizer Management</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#non-pesticide-pest-and-disease-management">7.2.2 NON-PESTICIDE PEST AND DISEASE MANAGEMENT</a>
+<a href="#non-pesticide-pest-and-disease-management">6.2.2 Non-Pesticide Pest and Disease Management</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#alternative-nutrient-sources-for-human-food">7.2.3 ALTERNATIVE NUTRIENT SOURCES FOR HUMAN FOOD</a>
+<a href="#alternative-nutrient-sources-for-human-food">6.2.3 Alternative Nutrient Sources for Human Food</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#predictive-models-in-precision-agriculture">7.2.4 PREDICTIVE MODELS IN PRECISION AGRICULTURE</a>
+<a href="#predictive-models-in-precision-agriculture">6.2.4 Predictive Models in Precision Agriculture</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#autonomous-devices-in-precision-agriculture">7.2.5 AUTONOMOUS DEVICES IN PRECISION AGRICULTURE</a>
+<a href="#autonomous-devices-in-precision-agriculture">6.2.5 Autonomous Devices in Precision Agriculture</a>
 
 </li>
 
@@ -405,7 +348,7 @@ Table of content
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#influence-of-ip-strategies-on-collaboration-and-competition">7.3 INFLUENCE OF IP STRATEGIES ON COLLABORATION AND COMPETITION</a>
+<a href="#influence-of-ip-strategies-on-collaboration-and-competition">6.3 Influence of IP Strategies on Collaboration and Competition</a>
 
 </li>
 
@@ -413,25 +356,25 @@ Table of content
 
 <li style="padding-left: 3rem;">
 
-<a href="#competitive-barriers-and-market-leadership">7.3.1 COMPETITIVE BARRIERS AND MARKET LEADERSHIP</a>
+<a href="#competitive-barriers-and-market-leadership">6.3.1 Competitive Barriers and Market Leadership</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#strategic-collaborations-and-knowledge-sharing">7.3.2 STRATEGIC COLLABORATIONS AND KNOWLEDGE SHARING</a>
+<a href="#strategic-collaborations-and-knowledge-sharing">6.3.2 Strategic Collaborations and Knowledge Sharing</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#regional-and-sectoral-expansion">7.3.3 REGIONAL AND SECTORAL EXPANSION</a>
+<a href="#regional-and-sectoral-expansion">6.3.3 Regional and Sectoral Expansion</a>
 
 </li>
 
 <li style="padding-left: 3rem;">
 
-<a href="#impact-on-innovation-ecosystem-and-collaboration-models">7.3.4 IMPACT ON INNOVATION ECOSYSTEM AND COLLABORATION MODELS</a>
+<a href="#impact-on-innovation-ecosystem-and-collaboration-models">6.3.4 Impact on Innovation Ecosystem and Collaboration Models </a>
 
 </li>
 
@@ -439,31 +382,57 @@ Table of content
 
 </ul>
 
-<!-- Section 8 réservée -->
-
-<li><a href="#8" class="h1">8 \[TITLE OF FUTURE SECTION\]</a></li>
+<li><a href="#emerging-and-future-technologies-in-agriculture">7 Emerging and Future Technologies in Agriculture: Their Role and Implications on Ecosystem Dynamics</a></li>
 
 <ul>
 
-<!-- À remplir ultérieurement -->
+<li style="padding-left: 1.5rem;">
+
+<a href="#advanced-ai-and-machine-learning-applications">7.1 Advanced AI and Machine Learning Applications</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#ai-driven-regenerative-agriculture">7.2 AI-Driven Regenerative Agriculture</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#internet-of-everything-(ioe)-and-molecular-communication-with-nanotechnology">7.3 Internet of Everything (IoE) and Molecular Communication with Nanotechnology</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#electro-agriculture">7.4 Electro-Agriculture</a>
+
+</li>
+
+<li style="padding-left: 1.5rem;">
+
+<a href="#broader-implications-on-ecosystem-dynamics">7.5 Broader Implications on Ecosystem Dynamics</a>
+
+</li>
 
 </ul>
 
 <!-- Section 9 References -->
 
-<li><a href="#references">9 REFERENCES</a></li>
+<li><a href="#references">9 References</a></li>
 
 <ul>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#text-references">9.1 TEXT REFERENCES</a>
+<a href="#text-references">9.1 Text References</a>
 
 </li>
 
 <li style="padding-left: 1.5rem;">
 
-<a href="#images-and-graphs">9.2 IMAGES AND GRAPHS</a>
+<a href="#images-and-graphs">9.2 Images and Graphs</a>
 
 </li>
 
@@ -476,29 +445,13 @@ Table of content
 
 ## Reasons for Selecting the Agriculture Industry {#reasons-for-selecting-the-agriculture-industry}
 
-We have chosen the field of agriculture because it is an area that concerns the whole world and on which the world's population depends for its survival.  Agriculture is also important for countries because it has a direct impact on their economy (via employment, GDP and the food industry). In addition, agriculture faces major challenges, such as population growth, resource scarcity and, above all, global warming, which threatens the survival of certain crops, making it more dependent than ever on innovation. There is also a strong demand (from the public also) for more sustainable practices, and new practices already exist, sometimes even incorporating AI. It is for these reasons that we have chosen it, as it seems an interesting subject to work on.
+We have chosen the field of agriculture because it is an area that concerns the whole world and on which the world's population depends for its survival.  Agriculture is also important for countries because it has a direct impact on their economy (via employment, GDP and the food industry). In addition, agriculture faces major challenges, such as population growth, resource scarcity and, above all, global warming, which threatens the survival of certain crops, making it more dependent than ever on innovation. There is also a strong demand (from the public also) for more sustainable practices, and new practices already exist, sometimes even incorporating AI. It is for these reasons that we have chosen it, as it seems an interesting subject to work on. Here is a figure of global agriculture environmental impact showing the importance of new innovative and sustainable practices.
 
 ![Figure [1](#ref1): Environmental Impacts of Food and Agriculture (2018).](https://raw.githubusercontent.com/ellitna/SOI/main/images/impact.png){#fig:impact width="700px"}
 
 ## Key Competitive Dynamics {#key-competitive-dynamics}
 
-Companies in the agriculture industry such as Bayer continue to dominate through innovation that includes for example genetically modified seeds and precision agriculture technologies. Mergers and acquisitions like Bayer-Monsanto promote more advanced biotechnological solutions with increased corporate control over the market. Each of these organizations provide a lot of input and some maintain an advantage through R&D investments, and by scaling their operations on a global scale. Family farms and cooperatives are also important players, particularly in local markets. These players often adopt organic or sustainable farming practices, which are their main competitive advantage. For example, cooperatives can focus on economies of scale by pooling their resources to improve market access, particularly for smallholders.
-
-The market is somewhat fragmented. While global giants like Bayer or Syngenta dominate input markets, the production side remains distributed among millions of small, medium, and large-scale producers. In regions like North America and Europe, large agribusinesses hold significant influence, but in developing countries, smallholder farms and cooperatives still account for a large share of production.
-
-Besides, sustainability matters a lot in the agricultural sector. For example, the European Green Deal includes targets for decreasing pesticide use, which pushes this sector toward sustainability-driven innovation. Consumer demand for sustainability is becoming a competitive game changer. Farmers and agribusinesses that design or harmonize their operations with more environmentally friendly practices (e.g., mitigate pesticide input or integrate organic farming) can adapt to environmental regulation and a change in consumer preference. This enables them to gain competitive advantage. Also, the changing weather patterns and resource limitations (particularly water) are forcing agricultural companies to adopt climate-resilient technologies and crops. This is both a challenge and an opportunity, with companies that adapt better, like Syngenta (which focuses on drought-resistant seeds), gaining a competitive edge.
-
-Lastly, rising input costs and labor shortages have been challenges to farm profitability, but both challenges are forcing the farming industry to evolve rapidly with automation and precision agriculture technologies becoming economically viable. For example, fields planted with John Deere automated machinery save money on fertilizer and herbicides due to the use of sensor-based precision application systems.
-
-## Technological Trends {#technological-trends}
-
-In terms of technological trends, we can see a lot of progress in the last few years in the agriculture industry.
-
--   **Precision agriculture**: images, drones and sensors to process data in real time, enabling farmers to monitor plant health, manage water use efficiently and apply fertilizer with greater precision.
-
--   **Automation and robotics**: robotics are increasingly used in harvesting, weeding and planting. They help to increase efficiency and reduce labor costs, and even reduce the risk of human error by allowing continuous working.
-
--   **AI**: they are becoming the main tools for optimizing farming operations. Using AI to oversee big data makes it easier to examine huge datasets, such as soil samples to gain insights into crop management, water saving and predicting the optimum planting period and so helping with reducing environmental impact.
+The market is somewhat fragmented. While global giants like Bayer or Syngenta dominate input markets, the production side remains distributed among millions of small, medium, and large-scale producers. In regions like North America and Europe, large agribusinesses hold significant influence, but in developing countries, smallholder farms and cooperatives still account for a large share of production. Besides, sustainability matters a lot in the agricultural sector. The changing weather patterns and resource limitations (particularly water) are forcing agricultural companies to adopt climate-resilient technologies and crops. This is both a challenge and an opportunity, with companies that adapt better, like Syngenta (which focuses on drought-resistant seeds), gaining a competitive edge. Lastly, rising input costs and labor shortages have been challenges to farm profitability, but both challenges are forcing the farming industry to evolve rapidly with automation and precision agriculture technologies becoming economically viable.
 
 ## Ecosystem Map
 
@@ -522,7 +475,7 @@ Agricultural sustainable challenges stem largely from reliance on natural resour
 
 </iframe>
 
-**Figure [3](#ref3)**: Contribution to global mean surface temperature rise from agriculture (2022)
+**Figure [3](#ref3)**: Contribution to global mean surface temperature rise from agriculture between 1851 and 2023 (2023)
 
 </div>
 
@@ -536,7 +489,7 @@ One of the greatest threats to sustainable agriculture is water. Agriculture is 
 
 </iframe>
 
-**Figure [4](#ref4)**: Annual freshwater withdrawals by country (2020)
+**Figure [4](#ref4)**: Annual freshwater withdrawals by country between 1962 and 2020 (2020)
 
 </div>
 
@@ -566,7 +519,7 @@ The expansion of agriculture can destroy habitats leading to a loss in wildlife 
 
 ### Precision Agriculture
 
-Precision agriculture is one of the most promising innovations in agricultural industry, which adjusts resource utilization with technologies like GPS, sensors, drones, and data analytics to maximize efficiency. An example is IoT-enabled sensors. They help reduce waste by monitoring soil moisture and nutrient levels, as a result enabling farmers to apply fertilizers or water only, when necessary, in specific areas, contributing to improved crop yields and lower environmental impact. Globally, 9.8 gigatons of CO2e emissions could be reduced over the course of 2020-2050 through precision farming and by year end in 2030 this sector will have saved farmers US\$40 to \$100 billion annually on input costs.
+Precision agriculture is one of the most promising innovations in agricultural industry, which adjusts resource utilization with technologies like GPS, sensors, drones, and data analytics to maximize efficiency. An example is IoT-enabled sensors. They help reduce waste by monitoring soil moisture and nutrient levels, as a result enabling farmers to apply fertilizers or water only, when necessary, in specific areas, contributing to improved crop yields and lower environmental impact. Globally, 9.8 gigatons of CO2e emissions could be reduced over the course of 2020-2050 through precision farming and by year end in 2030 this sector will have saved farmers US\$40 to \$100 billion annually on input costs (Deloitte & Environmental Defense Fund, 2022).
 
 ### Agroecology and Regenerative Agriculture
 
@@ -578,7 +531,7 @@ Circular farming models emphasize nutrient recycling in order to minimize the lo
 
 ### Water-Saving Technologies
 
-Ways to fight the issues of water shortages are going forward; it is very important to have new technologies in every kind of conservation including drip irrigation, micro-sprinklers and reuse systems. The net effect of these systems is significantly less water used in crop irrigation by the farmers. Precision irrigation systems, on the other hand, can reduce water use by up to 50% compared to traditional methods of irrigation. In McLaren Vale, for example, farmers have been able to reduce their need for fresh water by repurposing treated wastewater from the region to irrigate vineyards.
+Ways to fight the issues of water shortages are going forward; it is very important to have new technologies in every kind of conservation including drip irrigation, micro-sprinklers and reuse systems. The net effect of these systems is significantly less water used in crop irrigation by the farmers. Precision irrigation systems, on the other hand, can reduce water use by up to 41.86% compared to traditional methods of irrigation (Helmy et al., 2024). In McLaren Vale, for example, farmers have been able to reduce their need for fresh water by repurposing treated wastewater from the region to irrigate vineyards.
 
 ## Examples of Sustainable Innovations
 
@@ -590,11 +543,13 @@ Ways to fight the issues of water shortages are going forward; it is very import
 
 4.  **John Deere’s Precision Farming Equipment**: John Deere drones to support IoT enabled autonomous tractors and precision farming equipment monitoring crop health and controlling inputs very precisely. They encourage smart farming through waste reduction, pollution mitigation and yield improvement making what could be sustainable agricultural practices. In addition, the company is working on AI and big data analytics to assist farm generals in providing predictions concurrently for real-time decision-making by farmers so that efficiency can be enhanced.
 
-5.  **Virtual Fencing for Livestock**: Virtual fencing is a type of pasture management for livestock which, instead of using physical fencing, relies on global positioning systems (GPS) and movement sensors. This technology is supposed to ensure the sustainability of pastures by reducing overgrazing and improving animal welfare. In addition, virtual fencing reduces labor and material costs and adds data-driven information to improve livestock productivity. However, this practice is prohibited in Switzerland, in fact according to the confederation, even though the cows quickly learned the system without longer-term negative effects on animal welfare, Switzerland prohibits this due to animal welfare concerns including negative stress for the animals. But even on the Swiss side, the results are promising after ‘just’ 8 electrical discharges, the cows were able to adapt to the virtual fence. Over the days, the number of discharges fell to very few, or even zero. Another solution is to use sound effects, which is what the company Nofence does.
+5.  **Virtual Fencing for Livestock**: Virtual fencing is a type of pasture management for livestock which, instead of using physical fencing, relies on global positioning systems (GPS) and movement sensors. This technology is supposed to ensure the sustainability of pastures by reducing overgrazing and improving animal welfare. In addition, virtual fencing reduces labor and material costs and adds data-driven information to improve livestock productivity. However, this practice is prohibited in Switzerland, in fact according to the Confederation, even though the cows quickly learned the system without longer-term negative effects on animal welfare, Switzerland prohibits this due to animal welfare concerns including negative stress for the animals. But even on the Swiss side, the results are promising after ‘just’ 8 electrical discharges, the cows were able to adapt to the virtual fence. Over the days, the number of discharges fell to very few, or even zero. Another solution is to use sound effects, which is what the company Nofence does.
 
 # Timing of Entry {#timing-of-entry}
 
 ## Timeline of the Agriculture Industry
+
+What is special about our industry is that it spans tens of thousands of years. Here is a summary in 4 revolutions:
 
 ![Figure [7](#ref7): Timeline of the agriculture industry](https://raw.githubusercontent.com/ellitna/SOI/main/images/timeline.png)
 
@@ -614,9 +569,9 @@ Fordson’s Timing Strategy was mass production. Using the techniques of mass pr
 
 Fordson soon had 75% of the tractor market in the U.S. by the early 1920s just a few years after it was introduced. However, by 1928, Ford temporarily withdrew from the U.S. tractor market, stopping production of the Fordson tractors domestically due to increased competition and shifting focus to cars. Production continued in Europe, where Fordson maintained a presence. The temporary gap left by **Ford**'s withdrawal created opportunities for other companies to expand their market share.
 
-The early success of Waterloo Boy tractors untied Deere from having to start production of a tractor from scratch. Whereas **Ford** chose not to update and improve the design of his original tractor, **Deere** continued to innovate with autonomous tactors and precision farming and improve the Waterloo Boy by developing more powerful and efficient models. Their approach of providing powerful, reliable tractors helped them to survive the turbulent early years of the market and be a dominant player in the market in the long-term. Thus, **John Deere** due to its investments in technological advancements and market penetration is the only major first mover still dominating the tractor market.
+The early success of Waterloo Boy tractors untied Deere from having to start production of a tractor from scratch. Whereas **Ford** chose not to update and improve the design of his original tractor, **Deere** continued to innovate with autonomous tractors and precision farming and improve the Waterloo Boy by developing more powerful and efficient models. Their approach of providing powerful, reliable tractors helped them to survive the turbulent early years of the market and be a dominant player in the market in the long-term. Thus, **John Deere** due to its investments in technological advancements and market penetration is the only major first mover still dominating the tractor market.
 
-In terms of impact of timing on success, Fordson (first mover) held dominance early in the market. But  their focus change allowed fast followers like John **Deere** to later overtake them. **Deere** soundly beat its competitors by the 1960s and became the market leader. First meant that **Deere** had the brand and customer loyalty to claim a leadership position for quality and innovation in agriculture. Having been one of the "first movers" in digital agriculture, like through precision farming with JDLink, it made sure that they defined what standards everyone else had to comply with.
+In terms of impact of timing on success, Fordson (first mover) held dominance early in the market. But their focus change allowed fast followers like John **Deere** to later overtake them. **Deere** soundly beat its competitors by the 1960s and became the market leader. First meant that **Deere** had the brand and customer loyalty to claim a leadership position for quality and innovation in agriculture. Having been one of the "first movers" in digital agriculture, like through precision farming with JDLink, it made sure that they defined what standards everyone else had to comply with.
 
 Although **Ford** and **Deere** were the pioneers in this set, fast followers **like International Harvester** (**IHC**) and **Allis-Chalmers** were instrumental to how markets evolved by learning from early entrant successes and failures.
 
@@ -636,7 +591,7 @@ Then, **Kubota** and **AGCO**, the late movers, joined the competitive tractor m
 
 In terms of impact of timing on success, **Kubota** focused solely on compact tractors and emerging markets, eventually becoming one of the largest global players in that sector. Later entry and focusing on smaller, neglected segments assured **Kubota** to avoid direct competition from giants like **Deere** or **IHC**. However, **Kubota**’s strategy also had limitations, they were not able to compete with **Deere**’s market leadership. **AGCO**'s acquisition-based growth was enabled by the retention of strong brand loyalty and well-established dealer networks. These late entrants prove that if you get the timing right and a focused strategy, there is still room to dominate even in a market filled with established incumbents.
 
-To conclude, timing strategies have proven in the tractor market to not necessarily determine success. First movers lead to initial brand leadership and market power as we can see with **John Deere** or **Ford**. Nevertheless, staying in that position is another matter, and it requires constant innovation to keep up with long-term success as **John Deere**. On the other side, Fordson did not stick around in the tractor market and showed that first-mover advantage can be lost when a new company change focus or fails to keep up with technological change. **Ford** had returned to the market with innovative models such as the 9N and the takeover of **New Holland**, proving that its initial dominance could be regained through strategic partnerships and technological advances. However, its initial inability to innovate and its focus on cars cost it its long-term leadership position in the tractor sector and it was forced to abandon the brand in profit of **CNH** in the 1990s. The Success has followed for companies that have gone down the fast-follow path, such as **IHC** **and Allis-Chalmers**, which quickly adopted the innovations of first movers. These provided an opportunity for fast followers to enter the market at a lower cost and with more reliable technology, which made them win significant market share without shouldering pioneering costs. Lastly, late entrants like **Kubota** and **AGCO**, timed their entry into established or niche markets to not compete head-on with market leaders. Even if they cannot compete for the same market upside, what made them successful is using proven technology and systems to address real farmers’ needs.
+To conclude, timing strategies have proven in the tractor market to not necessarily determine success. First movers lead to initial brand leadership and market power as we can see with **John Deere** or **Ford**. Nevertheless, staying in that position is another matter, and it requires constant innovation to keep up with long-term success as **John Deere**. On the other side, Fordson did not stick around in the tractor market and showed that first-mover advantage can be lost when a new company change focus or fails to keep up with technological change. **Ford** had returned to the market with innovative models such as the 9N and the takeover of **New Holland**, proving that its initial dominance could be regained through strategic partnerships and technological advances. However, its initial inability to innovate and its focus on cars cost it its long-term leadership position in the tractor sector and it was forced to abandon the brand in profit of **CNH** in the 1990s. The success has followed for companies that have gone down the fast-follow path, such as **IHC** **and Allis-Chalmers**, which quickly adopted the innovations of first movers. These provided an opportunity for fast followers to enter the market at a lower cost and with more reliable technology, which made them win significant market share without shouldering pioneering costs. Lastly, late entrants like **Kubota** and **AGCO**, timed their entry into established or niche markets to not compete head-on with market leaders. Even if they cannot compete for the same market upside, what made them successful is using proven technology and systems to address real farmers’ needs.
 
 # Innovation and Experimentation {#innovation-and-experimentation}
 
@@ -652,31 +607,15 @@ To conclude, timing strategies have proven in the tractor market to not necessar
 
 </div>
 
-## Innovation Hubs and Key Experimentation centers
-
-There are many innovation hubs and key experimentation centers in the agriculture area. 
-
-FAO Global Network of Digital Agriculture Innovation Hubs, for example, is a network that has been started by the FAO (Food and Agriculture Organization of the United Nations) to promote digital agriculture with hubs in Dominica; Grenada, Ethiopia and Morocco. These hubs will catalyze local digital maturity, partner capacity and national priorities. Their contribution is to support marginalised small-holder farmers, youth and women through the mainstreaming of innovations with digital tools / practices to increase productivity; manage climate risks; enhance inclusive sustainability.
-
-DIH AGRIFOOD in Slovenia Provides one-stop-shop in Slovenia and the EU for digital-based agricultural services including smart farming techs and innovation transfer to achieve sustainable production of high-quality food, contributes by offering support in awareness creation, technology transfer, business model development and Living Lab environment.
-
-SmartAgriHubs, EU-Wide Project, has for objective, digitizing EU agriculture with a €20 million fund under Horizon 2020 by linking nine regional clusters and 2000 competence centers through 140 digital innovation hubs along the value chain. Their goal is to create a fourth industrial revolution in agriculture by bringing 80 digital market solutions and digitizing over two million farms by connecting end-users directly with technology providers.
-
-Syngenta Seeds R&D Innovation Center in Illinois focuses also on improving crop yield and sustainability in North America through advanced genomics, automation and VR/AR. They enable large-scale testing including joint research with local farmers via provisioning high-throughput DNA sequencing, capability to support rapid pest resistance trials along with VR simulations to accelerate crop and hybrid development.
-
-Besides, Switzerland´s Agroscope in partnership with the Swiss Food & Nutrition valley are driving change makers to sustainability agricultural practices and innovation on food technology at European level as well around the globe. Crop genetics, environmental sustainable projects, digital agriculture is what puts that all together for Switzerland farming development efforts. In Switzerland, Swiss Food & Nutrition Valley links early-stage ventures and academia in improving food quality, sustainability, and food production efficiency.
-
-Last but not least, Impact Hub Istanbul and other EIT Food HUBs in eastern Europe offer a collaboration space for agriculture-impacting innovations to achieve the global SDGs in sustainable food production. They connect entrepreneurs with researchers or public sectors within training programs and digital transformation activities towards achieving sustainable agricultural practices by providing co-working spaces where cross-sectoral knowledge is shared.
-
 ## Contribution of Hubs and Experimentation centers
 
 ### Precision Agriculture and Digitalization
 
-All these entities contribute to innovation and technological developments, for example in digitalization and precision agriculture. Leading precision agriculture, hubs like SmartAgriHubs and DIH AGRIFOOD deploy big data along with advanced robotics as well as automated sensing technologies to provide agricultural end users with data-driven advice for improved optimization of farm variables including soil properties, irrigation, and pest control. FAO hubs also cater directly to sociotechnical specialists working in regions where little technological progress has been made; thereby making access by stakeholders at a broader scale, including youth and women. Swiss Food & Nutrition Valley contribute also to research advancements by generating knowledge on precision farming practices aiding connect local producers into cutting-edge digital tools while giving an exemplar vision that translates food production into sustainability goals built around quality standards recommended globally.
+All these entities contribute to innovation and technological developments, for example in digitalization and precision agriculture. Leading precision agriculture, hubs like SmartAgriHubs and DIH AGRIFOOD deploy big data along with advanced robotics as well as automated sensing technologies to provide agricultural end users with data-driven advice for improved optimization of farm variables including soil properties, irrigation, and pest control. FAO hubs also cater directly to sociotechnical specialists working in regions where little technological progress has been made; thereby making access by stakeholders at a broader scale, including youth and women. Swiss Food & Nutrition Valley contributes also to research advancements by generating knowledge on precision farming practices aiding connect local producers into cutting-edge digital tools while giving an exemplar vision that translates food production into sustainability goals built around quality standards recommended globally.
 
 ### Product Development and Testing
 
-In terms of accelerated product development and testing, Syngenta´s R&D Innovation Center, SouthEast Innovation Institute (SEII) support advanced genomics, pest resistance testing, automation, fast-track innovation cycles of new hybrid seeds and pest control solutions. SmartAgriHubs and DIH AGRIFOOD provide competence centers that host necessary environment testings where solutions can be customized and tested before wide-scale deployment thereby cutting down significantly on time needed for innovations delivery. Switzerland’s Agroscope plays vital role in providing experimental space to test sustainable agricultural practices as well as creating climate-resilient and environment friendly innovations.
+In terms of accelerated product development and testing, Syngenta's R&D Innovation Center and SouthEast Innovation Institute (SEII) support advanced genomics, pest resistance testing, automation, fast-track innovation cycles of new hybrid seeds and pest control solutions. SmartAgriHubs and DIH AGRIFOOD provide competence centers that host necessary environment testings where solutions can be customized and tested before wide-scale deployment thereby cutting down significantly on time needed for innovations delivery. Switzerland’s Agroscope plays vital role in providing experimental space to test sustainable agricultural practices as well as creating climate-resilient and environment friendly innovations.
 
 ### Capacity Building and Knowledge
 
@@ -688,7 +627,7 @@ These innovative and technological advancements affect the agricultural ecosyste
 
 ### Sustainability and Climate Resilience
 
-These developments in the agriculture also foster sustainability and climate resilience. On the sustainability front, initiatives such as SmartAgriHubs 4th Industrial Revolution demonstration projects provide climate-smart solutions to address pressing challenges like climate change, drought or pest resilience. Controlled-environment innovations at CHAP IHCEA (UK) and SEII (Southeast Asia) further support integrated approaches by testing water-efficient farming practices, resilient crop varieties and reduced reliance on chemical pesticide usage cross-border. Agroscope’s research focus in Switzerland has a focus towards preparing farms with robust-climate-smart agricultural options that will boost soil health, biodiversity and increase water conservation leading to a more-resilient agri-food ecosystem.
+These developments in the agriculture also foster sustainability and climate resilience. On the sustainability front, initiatives such as SmartAgriHubs 4th Industrial Revolution demonstration projects provide climate-smart solutions to address pressing challenges like climate change, drought or pest resilience. Controlled-environment innovations at CHAP IHCEA (UK) and SEII (Southeast Asia) further support integrated approaches by testing water-efficient farming practices, resilient crop varieties and reduced reliance on chemical pesticide usage cross-border. Agroscope’s research in Switzerland has a focus towards preparing farms with robust-climate-smart agricultural options that will boost soil health, biodiversity and increase water conservation leading to a more-resilient agri-food ecosystem.
 
 ### Regional Development and Economic Diversification
 
@@ -696,55 +635,9 @@ Besides, with these advancements, regions are also developed and diversified by 
 
 ### Market Entry and Adoption of Innovations
 
-Finally, these developments also facilitate market entry and adoption. The DIH one-stop-shop model by SmartAgriHubs aspires to improve the go-to-market pathway for digital solutions, driving low costs solution adoption by SMEs . This setup of ecosystem network ensures quicker adoption rates, and helps bring new technologies into more farms, with financial assistance from these hubs. This encourages large-and small-scale technology acceptance. Swiss Food & Nutrition Valley connects local food tech startups with investors and international markets that serve as a bridge to easier market access ensuring wider reach for innovative sustainable agricultural solutions.
+Finally, these developments also facilitate market entry and adoption. The DIH one-stop-shop model by SmartAgriHubs aspires to improve the go-to-market pathway for digital solutions, driving low costs solution adoption by SMEs. This setup of ecosystem network ensures quicker adoption rates, and helps bring new technologies into more farms, with financial assistance from these hubs. This encourages large-and small-scale technology acceptance. Swiss Food & Nutrition Valley connects local food tech startups with investors and international markets that serve as a bridge to easier market access ensuring wider reach for innovative sustainable agricultural solutions.
 
 To conclude, innovation hubs and experimentation centers in the agriculture ecosystem are indispensable for creating this digital transformation in agriculture. These hubs are working to provide practical tools for productivity and create inclusive ecosystems toward regionality, economy and sustainability that together can lead us into a collaborative future for agriculture. Digitalization, knowledge transfer and climate resilience are fundamental for a more resilient, productive and sustainable agri-food sector globally. All these entities around the world are having an impact on today's urgent food security challenges by innovating and encouraging cross-sector collaboration.
-
-# Organizing for Innovation
-
-## Organizational structures of agricultural businesses
-
-In the agricultural sector, leading companies adopt a variety of organizational structures to drive innovation and maintain competitive advantage. These structures range from centralized R&D models to regional customer-focused frameworks, each designed to improve collaboration, streamline development processes or respond to local market needs. DHL's organizational strategies, presented by the speaker, offer further insights into the impact of different models on innovation. Here we will present some of these structures:
-
-### Centralized R&D models
-
-**Bayer CropScience and Syngenta AG**:
-
-Bayer CropScience and Syngenta AG, for example, use centralized R&D structures to manage and coordinate their innovation efforts. This approach allows R&D activities to be consolidated within a centralized framework, enabling these companies to maintain strict oversight, align strategic objectives and efficiently allocate resources between projects. As DHL's approach shows, central supervision allows these companies to maintain consistency and control, which is invaluable in highly regulated sectors such as agriculture.
-
-### Matrix structures
-
-**BASF SE and DowDuPont Inc**:
-
-BASF and DowDuPont use a matrix organizational structure, combining functional and project teams. This model encourages cross-functional collaboration by allowing R&D, marketing and regulatory teams to work closely together on innovation projects. The matrix structure fosters an environment where ideas flow between departments, promoting innovation that is aligned with both technical advances and market needs, offering the company great agility to adapt. However, as DHL's experience shows, managing a matrix structure requires clear guidelines to avoid inefficiencies and wasting money in order to maintain project focus, as it is easy in this kind of structure for difficulties to arise when it comes to coordinating and agreeing between the different parties.
-
-### Product-centered hierarchies
-
-**John Deere and CNH Industrial**:
-
-John Deere and CNH Industrial operate with product-centric hierarchies, structuring their teams around specific machine categories. This model emphasizes specialist engineering and in-depth expertise within product lines, supporting targeted innovation in areas such as precision farming and autonomous machinery. DHL's ‘funnel’ approach to selecting and developing new technologies reflects this structure, as both models focus on selecting projects based on their potential impact and practicality, ensuring that resources are directed towards high-priority innovations.
-
-### Customer-focused regional models
-
-**AGCO Corporation and Kubota Corporation**:
-
-AGCO and Kubota use regional customer-centric models, which give autonomy to regional divisions to adapt products to local markets. This approach allows these companies to adapt their innovations to the specific needs of geographical areas and customers, making them agile in meeting diverse agricultural demands. DHL's digitization strategy, which adapts technology deployments to regional contexts, aligns with AGCO and Kubota's approach, demonstrating the value of adaptability and local customization within a broader strategic framework.
-
-## Impact of organizational structures
-
-Now let's talk about **the impact of these organizational structures on processes and outcomes**
-
-The organizational structures adopted by these agricultural companies have a direct impact on their innovation processes and results, as they determine the way resources are managed, the way teams interact and the speed and efficiency with which companies can respond to market changes.
-
-Bayer's and Syngenta's centralized R&D models create environments where innovation is highly coherent, standardized and aligned with regulatory standards. This structure favors a data-driven approach, enabling systematic product development and improvement in crop protection and biotechnology for example. However, centralization can slow response times to market developments, as decision-making is concentrated at higher levels. Despite this, the coherent framework enables reliable, regulatory-compliant innovation, strengthening their leadership in highly controlled product segments, which is the case in agriculture.
-
-For the matrix structures of BASF and DowDuPont, these structures encourage the exchange of cross-functional knowledge, enabling different teams to contribute simultaneously to the innovation process. By integrating the expertise of different departments, these companies can accelerate development cycles and align new products with technical and market requirements. While the matrix model encourages adaptability and responsiveness, it also introduces management complexity. Structured project management practices within these companies help to mitigate potential inefficiencies and accelerate the time-to-market for solutions such as crop nutrition and pest control.
-
-The product-focused hierarchies of John Deere and CNH Industrial enable highly targeted innovation in specific machine categories. This structure favors in-depth specialization and precision, particularly useful for developing high-performance, reliable equipment for precision farming. Although less flexible than other models, the product-centered approach enables these companies to produce robust, specialized machines that meet specific agricultural needs, which is very important in this industry. The structured, step-by-step scaling process, similar to DHL's pilot testing approach, ensures that each innovation is thoroughly tested and refined before being rolled out more widely.
-
-AGCO's and Kubota's regional models, meanwhile, encourage localized innovation, enabling the development of solutions tailored to specific market conditions and customer preferences. This decentralized structure improves flexibility, as regional divisions can quickly adapt products to meet different farming challenges. However, decentralization requires effective coordination to maintain brand consistency and strategic alignment. The model fosters a strong culture of customer-focused innovation, supporting the development of compact machines that can be adapted to regional needs.
-
-In conclusion, the different organizational structures of the major agricultural companies demonstrate the strategic balance between centralization and flexibility in the conduct of innovation. The centralized R&D models of Bayer and Syngenta guarantee consistency and reliability, while the matrix structures of BASF and DowDuPont encourage collaborative innovation that responds to market demands. The product-centric hierarchies of John Deere and CNH Industrial support the development of specialist, high-quality machinery, while the regional models of AGCO and Kubota enable locally relevant, customer-focused solutions. DHL's knowledge of structured scale and regional adaptability shows how agricultural businesses can optimize their organizational models to improve the reach and relevance of their innovations. Each structure offers unique advantages in meeting the challenges of global agriculture, with the choice of model influencing not only the speed and direction of innovation, but also the degree of market responsiveness. Thanks to these various organizational strategies, agricultural businesses are able to maintain a competitive edge and respond effectively to the changing needs of the agricultural ecosystem.
 
 # Platforms and Ecosystems
 
@@ -764,51 +657,51 @@ Different agricultural platforms are transforming ecosystems around the world by
 
 By allowing farmers to exchange information, often allowing them to obtain aggregated data, platforms like Hello Tractor and Farmers Business Network (FBN) create a shared ecosystem around learning and innovation.
 
-Take *Hello Tractor*, for example, which connects tractor owners with smallholder farmers who require access to affordable tractor services but cannot afford to own the machinery themselves. It provides an on-demand booking of tractor services for farmers, and the data collected on tractor usage ensures that owners maximize asset utilization. Moreover, *Hello Tractor* acquires and analyzes usage data to provide insights into regional agricultural trends and to inform farmers of the best crop practices and resource allocations.
+Take Hello Tractor, for example, which connects tractor owners with smallholder farmers who require access to affordable tractor services but cannot afford to own the machinery themselves. It provides an on-demand booking of tractor services for farmers, and the data collected on tractor usage ensures that owners maximize asset utilization. Moreover, Hello Tractor acquires and analyzes usage data to provide insights into regional agricultural trends and to inform farmers of the best crop practices and resource allocations.
 
-In a similar manner, *Farmers Business Network* (FBN) gives farmers a way to share knowledge on the platform and get recommendations that come from combining data from thousands of farms across multiple regions. FBN enables farmers to make more informed decisions regarding risk management and price negotiation through the collection of market prices, input costs, and agronomic information. Moreover, the data-driven nature of FBN promotes transparency and trust among farmers while allowing them to adjust to market dynamics and adopt best practices.
+In a similar manner, Farmers Business Network (FBN) gives farmers a way to share knowledge on the platform and get recommendations that come from combining data from thousands of farms across multiple regions. FBN enables farmers to make more informed decisions regarding risk management and price negotiation through the collection of market prices, input costs, and agronomic information. Moreover, the data-driven nature of FBN promotes transparency and trust among farmers while allowing them to adjust to market dynamics and adopt best practices.
 
 In both cases these platforms are channels of information and knowledge, where farmers are optimizing their practice from shared experience and data-driven insights. Ultimately, by fostering collaboration, these platforms will be key to a more resilient and more informed agricultural community ready to face challenges together.
 
 ### Supply Chain Efficiency and Market Access
 
-Some of the biggest challenges in agriculture are supply chain inefficiencies and lack of market access, and platforms such as *Pinduoduo* in China and *Ninjacart* in India solve these problems directly by linking farmers to consumers or retailers. These e-commerce platforms not only cut out the middlemen in the supply chain but also make sure that the entire profit does not go to the intermediaries and farmers earn a better share of the profit.
+Some of the biggest challenges in agriculture are supply chain inefficiencies and lack of market access, and platforms such as Pinduoduo in China and Ninjacart in India solve these problems directly by linking farmers to consumers or retailers. These e-commerce platforms not only cut out the middlemen in the supply chain but also make sure that the entire profit does not go to the intermediaries and farmers earn a better share of the profit.
 
-*Pinduoduo* is a very large Chinese e-commerce platform that has engaged with rural farmers and connecting them directly to urban consumers with online fresh produce marketplace. *Pinduoduo* drives demand for agricultural products and provides many small farmers with access to a large market without intermediaries, thanks to its social commerce model where buyers can come together to buy at discount prices. By doing so, it increases the income of farmers and makes fresh products with lower prices available and accessible to urban consumers, creating a win-win situation.
+Pinduoduo is a very large Chinese e-commerce platform that has engaged with rural farmers and connecting them directly to urban consumers with online fresh produce marketplace. Pinduoduo drives demand for agricultural products and provides many small farmers with access to a large market without intermediaries, thanks to its social commerce model where buyers can come together to buy at discount prices. By doing so, it increases the income of farmers and makes fresh products with lower prices available and accessible to urban consumers, creating a win-win situation.
 
-In the same way, *Ninjacart* in India is linking farmers and retailers also using a technology-defined supply chain for an efficient logistics and reducing food wastage. *Ninjacart* reduces the time taken for transporting produce from farms to urban centers and preserves freshness and minimize losses by using data analytics for demand forecasting and delivery route optimization. It also guarantees that farmers get paid promptly, relieving the cash flow problems that smallholder farmers regularly experience. These platforms such as *Ninjacart* streamline supply chain management that profits small farmers but also ensure competitive and fresher products to the consumers.
+In the same way, Ninjacart in India is linking farmers and retailers also using a technology-defined supply chain for an efficient logistics and reducing food wastage. Ninjacart reduces the time taken for transporting produce from farms to urban centers and preserves freshness and minimize losses by using data analytics for demand forecasting and delivery route optimization. It also guarantees that farmers get paid promptly, relieving the cash flow problems that smallholder farmers regularly experience. These platforms such as Ninjacart streamline supply chain management that profits small farmers but also ensure competitive and fresher products to the consumers.
 
 ### Financial and Advisory Services
 
-For farmers who want to invest in new technology or scale their operations, access to financial and advisory services is crucial, but traditional financial institutions tend to consider agribusiness as high risk. This is where platforms such as *M-Farm* in Kenya and *Indigo Agriculture* in the USA come in. They provide customized financial products and advisory services that provide farmers with the ability to hedge against risks and be more empowered in making decisions.
+For farmers who want to invest in new technology or scale their operations, access to financial and advisory services is crucial, but traditional financial institutions tend to consider agribusiness as high risk. This is where platforms such as M-Farm in Kenya and Indigo Agriculture in the USA come in. They provide customized financial products and advisory services that provide farmers with the ability to hedge against risks and be more empowered in making decisions.
 
-In Kenya, for instance, *M-Farm* is a digital marketplace that provides farmers with real-time market prices and direct access to buyers, and offers key information that farmers can use to negotiate better deals. *M-Farm* also plays a role in giving farmers access to credit and insurance services tailored to their agricultural requirements. *M-Farm* uses data from farmers, such as sales and transaction data, with the aim of evaluating creditworthiness and offer financial products to farmers at lower rates than traditional lenders, allowing farmers to access high-quality inputs or expansion with ease.
+In Kenya, for instance, M-Farm is a digital marketplace that provides farmers with real-time market prices and direct access to buyers, and offers key information that farmers can use to negotiate better deals. M-Farm also plays a role in giving farmers access to credit and insurance services tailored to their agricultural requirements. M-Farm uses data from farmers, such as sales and transaction data, with the aim of evaluating creditworthiness and offer financial products to farmers at lower rates than traditional lenders, allowing farmers to access high-quality inputs or expansion with ease.
 
-*Indigo Agriculture* provides farmers with a platform to access carbon credits and regenerative agriculture practices to help drive regenerative agricultural practices in the USA. Instead of merely preventing farmers from contributing to the problem, earning carbon credits allow farmers to earn money for participating in sustainable practices, such as cover cropping or reduced tillage, that encourage meaningful reductions in greenhouse gas emissions. This gives farmers a secondary revenue stream and encourages environmentally sustainable practices. In addition, *Indigo's* advisory services enable farmers to overcome the difficulties of carbon farming, such as compliance and monitoring requirements, making sustainability easier and more profitable.
+Indigo Agriculture provides farmers with a platform to access carbon credits and regenerative agriculture practices to help drive regenerative agricultural practices in the USA. Instead of merely preventing farmers from contributing to the problem, earning carbon credits allow farmers to earn money for participating in sustainable practices, such as cover cropping or reduced tillage, that encourage meaningful reductions in greenhouse gas emissions. This gives farmers a secondary revenue stream and encourages environmentally sustainable practices. In addition, Indigo's advisory services enable farmers to overcome the difficulties of carbon farming, such as compliance and monitoring requirements, making sustainability easier and more profitable.
 
 ## Assessing the Impact of Network Effects on Innovation
 
 ### Enhanced Data Collection and Analytics
 
-*Agrosmart* in Brazil and *DEMETER* in Europe demonstrate network effects increasing the data collected, which results in higher-quality analytics and insights for the users. Agrosmart collects real-time data from farms through IoT sensors to measure climate conditions, soil moisture and crops health. With additional farmers using the platform, *Agrosmart* aggregates this data to create more accurate local climate models and forecast pest outbreaks and produce localized management recommendations to farmers based on climate conditions. This type of predictive analytics enables data-driven decision-making on the farmers' part, for example, to alter their irrigation schedule, or to apply pesticides only when absolutely necessary, ultimately saving time and costs, in addition to preserving resources.
+Agrosmart in Brazil and DEMETER in Europe demonstrate network effects increasing the data collected, which results in higher-quality analytics and insights for the users. Agrosmart collects real-time data from farms through IoT sensors to measure climate conditions, soil moisture and crops health. With additional farmers using the platform, Agrosmart aggregates this data to create more accurate local climate models and forecast pest outbreaks and produce localized management recommendations to farmers based on climate conditions. This type of predictive analytics enables data-driven decision-making on the farmers' part, for example, to alter their irrigation schedule, or to apply pesticides only when absolutely necessary, ultimately saving time and costs, in addition to preserving resources.
 
-Likewise, *DEMETER* combines data from different sources: sensors, drones, and satellite images from space, to give farmers information about the yield of their products, the market demand, and environmental factors. The dataset of the platform can keep expanding as the platform grows, which increases the accuracy of recommendations given by the platform. It also gives *DEMETER* the ability to assist agricultural research by using data to identify trends, utilize resources to their full potential and enhance productivity. Through advanced analytics, *Agrosmart* and *DEMETER* enable farmers to more effective practices that will help them to boost and become more sustainable.
+Likewise, DEMETER combines data from different sources: sensors, drones, and satellite images from space, to give farmers information about the yield of their products, the market demand, and environmental factors. The dataset of the platform can keep expanding as the platform grows, which increases the accuracy of recommendations given by the platform. It also gives DEMETER the ability to assist agricultural research by using data to identify trends, utilize resources to their full potential and enhance productivity. Through advanced analytics, Agrosmart and DEMETER enable farmers to more effective practices that will help them to boost and become more sustainable.
 
 ### Accelerated Technology Adoption
 
-These network effects are also key to accelerating adoption of advanced farming technology and sustainable practices. *Indigo Agriculture* in the US and *ATLAS* in Europe have demonstrated the capacity to scale use of IOT devices, machine learning and regenerative agriculture techniques by literally showing farmers how to benefit from what they do.
+These network effects are also key to accelerating adoption of advanced farming technology and sustainable practices. Indigo Agriculture in the US and ATLAS in Europe have demonstrated the capacity to scale use of IoT devices, machine learning and regenerative agriculture techniques by literally showing farmers how to benefit from what they do.
 
-*Indigo Agriculture* pays farmers to adopt regenerative practices. This leads to a virtuous cycle, more farmers join *Indigo*, which makes a carbon credit more credible and with a higher market value, which attracts more farmers
+Indigo Agriculture pays farmers to adopt regenerative practices. This leads to a virtuous cycle, more farmers join Indigo, which makes a carbon credit more credible and with a higher market value, which attracts more farmers
 
-*ATLAS* provides an open interoperability network for smart farming applications in Europe. With the interlink of different IoT devices, sensors, and data analytic tools, *ATLAS* helps farmers to use precision agriculture techniques that are highly based on their needs. By publishing success stories and letting farmers participating in a network of peer support, *ATLAS* makes it easy for hesitant farmers to transition into data-driven farming as more and more farmers adopt these tools. By demonstrating how technology works, supported by increasing user base, the platform fastens the scientific innovations adoption across the agricultural community.
+ATLAS provides an open interoperability network for smart farming applications in Europe. With the interlink of different IoT devices, sensors, and data analytic tools, ATLAS helps farmers to use precision agriculture techniques that are highly based on their needs. By publishing success stories and letting farmers participating in a network of peer support, ATLAS makes it easy for hesitant farmers to transition into data-driven farming as more and more farmers adopt these tools. By demonstrating how technology works, supported by increasing user base, the platform fastens the scientific innovations adoption across the agricultural community.
 
 ### Creation of Complementary Innovations
 
 As they scale, platforms pull in third-party developers and service providers who together build complementary innovations that enhance the core capabilities of the platform. This allows an ecosystem effect to happen, where products and services are growing around the platform, enriching users' experiences and extending the capabilities of the platform.
 
-For example, through its Agriculture Interoperability Space (AIS) and Agriculture Information Model (AIM), *DEMETER* support interoperability by allowing third-parties to build applications which can seamlessly integrate with existing agricultural tools. This interoperability can be leveraged by the third-party developers to build applications such as pest management or precision irrigation tools or even crop disease detection systems based on the existing *DEMETER* data. *DEMETER* creates more value proposition for farmers. This means, with *DEMETER* farmers will gain access to better tools, hopefully catering to different types of farming needs. This helps end users, i.e. farmers, but also creates business opportunities for software providers, hardware suppliers and advisory services in the agricultural sector.
+For example, through its Agriculture Interoperability Space (AIS) and Agriculture Information Model (AIM), DEMETER supports interoperability by allowing third-parties to build applications which can seamlessly integrate with existing agricultural tools. This interoperability can be leveraged by the third-party developers to build applications such as pest management or precision irrigation tools or even crop disease detection systems based on the existing DEMETER data. DEMETER creates more value proposition for farmers. This means, with DEMETER farmers will gain access to better tools, hopefully catering to different types of farming needs. This helps end users, i.e. farmers, but also creates business opportunities for software providers, hardware suppliers and advisory services in the agricultural sector.
 
-In a similar way, *M-Farm* in Kenya has gone beyond being a marketplace for farmers into new services (microloans, insurance, and advisory tools) targeting smallholder farmers. This has allowed third parties to create supporting innovations around *M-Farm* so that it can evolve from just a platform to an ecosystem that supports all stages of the farming lifecycle, from seed purchase to market sale.
+In a similar way, M-Farm in Kenya has gone beyond being a marketplace for farmers into new services (microloans, insurance, and advisory tools) targeting smallholder farmers. This has allowed third parties to create supporting innovations around M-Farm so that it can evolve from just a platform to an ecosystem that supports all stages of the farming lifecycle, from seed purchase to market sale.
 
 Platforms also have the ability to provide a one-stop-shop experience for farmers through complementary innovations; offering a large set of tools and services designed to address a number of agricultural challenges. It creates an ecosystem which enables continual innovation, keeping platforms responsive and relevant to the changing needs of the agricultural sector.
 
@@ -816,11 +709,11 @@ Platforms also have the ability to provide a one-stop-shop experience for farmer
 
 Network effects may be the driving force that powers growth and innovation, but they have the disadvantage of leading to platform monopolization. Under this process, several problems can be observed, such as limited competition, limited diversity in innovation and higher dependence on the leading platform itself.
 
-By way of example in China, one of the largest agricultural e-commerce platforms, *Pinduoduo*, At the same time, its dominant position leads to worry about monopolistic control. Farmers overly dependent on *Pinduoduo* could be in an awkward position to bargain or to access other markets. In the long run, the monopoly of the platform might discourage new entrants, which means less competition, or even lower innovation within in the industry sector. Farmers might become less and less autonomous as prices and market access fall under the monopoly control of the platform, which would also make them subject to the platform policies and algorithms.
+For example, in China, one of the largest agricultural e-commerce platform, Pinduoduo, rises concerns about market control due to its dominant position. Farmers overly dependent on Pinduoduo could be in an awkward position to bargain or to access other markets. In the long run, the monopoly of the platform might discourage new entrants, which means less competition, or even lower innovation within in the industry sector. Farmers might become less and less autonomous as prices and market access fall under the monopoly control of the platform, which would also make them subject to the platform policies and algorithms.
 
-Likewise, in areas where platforms such as *Farmers Business Network* (FBN) dominate, the threat exists that farmers would have reduced options in input suppliers and data analytics providers. As a leading provider of data-driven insights to the farmer community, FBN’s stronghold may make it difficult for other solutions to gain traction, limiting the diversity of tools and perspectives available to farmers. FBN has made the information most farmers need more readily accessible to a wider range of people, but its dominance could eventually impact competition, limiting farmer’s options and innovation.
+Likewise, in areas where platforms such as Farmers Business Network (FBN) dominate, the threat exists that farmers would have reduced options in input suppliers and data analytics providers. As a leading provider of data-driven insights to the farmer community, FBN’s stronghold may make it difficult for other solutions to gain traction, limiting the diversity of tools and perspectives available to farmers. FBN has made the information most farmers need more readily accessible to a wider range of people, but its dominance could eventually impact competition, limiting farmer’s options and innovation.
 
-In response to these challenges, regulators and policymakers will need to set guidelines for data portability, interoperability and fair competition on agricultural platforms. While network effects can create tremendous benefits for an ecosystem, we should encourage open standards and support multiple ecosystems so that the benefits of the network effects do not come at the expense of competition and innovation diversity.
+In response to these challenges, regulators and policymakers will need to set guidelines for data portability, interoperability and fair competition on agricultural platforms. There are already some examples of policy, such as the Agricultural Unfair Trading Practices Directive 2019. It concerned the unfair trading practices in the agricultural and food supply chain, and it was adopted by the European Parliament and Council on 17 April 2019. It was designed to protect farmers from unfair practices by dominant buyers, such as late payments and unilateral contract changes (FAO, 2019). Network effects can create tremendous benefits for an ecosystem, but it is necessary to encourage open standards and support multiple ecosystems so that the benefits of the network effects do not come at the expense of competition and innovation diversity.
 
 # Intellectual Property Strategy
 
@@ -983,7 +876,7 @@ interactive_plot
 
 ### Alternative Nutrient Sources for Human Food
 
-Top companies such as Pioneer Hi-Bred International, Nestlé and DSM-Firmenich have patents on plant-, insect- and algae-derived proteins in this area. Their portfolios range from nutrient extraction to processing to formulation. For instance, Nestlé has patents solely on certain protein extraction and purification methods. The strategic use of IP in this category supports product differentiation and expands the market for alternative proteins We can observe both collaborations and acquisitions in this category as traditional meat and dairy companies make moves to monopolize their IP holdings to diversify their portfolios (I.e. Tyson Foods and General Mills entering the plant-based segment).
+Top companies such as Pioneer Hi-Bred International, Nestlé and DSM-Firmenich have patents on plant-, insect- and algae-derived proteins in this area. Their portfolios range from nutrient extraction to processing to formulation. For instance, Nestlé has patents solely on certain protein extraction and purification methods. The strategic use of IP in this category supports product differentiation and expands the market for alternative proteins. We can observe both collaborations and acquisitions in this category as traditional meat and dairy companies make moves to monopolize their IP holdings to diversify their portfolios (i.e. Tyson Foods and General Mills entering the plant-based segment).
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 data2 <- data.frame(
@@ -1167,82 +1060,232 @@ IP strategies empowers companies to grow regionally and sector wise. Japanese co
 
 ### Impact on Innovation Ecosystem and Collaboration Models
 
-This IP holdings trend of industrial players against academic institutions impacts the innovation ecosystem. Universities end up with so little IP in areas such as Soil and Fertilizer Management due to this practice that it actually hinders the open sourcing of knowledge. That can suppress collaborative, every-day innovation because industrial IP control limits access to basic technologies. In contrast, Cargill and Nestlé will have their IP in alternative proteins but follow an open innovation model by licensing their IP to smaller firms and startups, establishing a powerful coopetition framework that promotes even more innovation in the ecosystem. This combination of competition and collaboration creates an innovation ecosystem that fosters proprietary knowledge protection coupled with selective sharing to promote growth.
+This IP holdings trend of industrial players against academic institutions impacts the innovation ecosystem. Universities end up with so little IP in areas such as Soil and Fertilizer Management that this practice actually hinders the open sourcing of knowledge. This can suppress collaborative, every-day innovation because industrial IP control limits access to basic technologies. In contrast, Cargill and Nestlé will have their IP in alternative proteins but follow an open innovation model by licensing their IP to smaller firms and startups, establishing a powerful competition framework that promotes even more innovation in the ecosystem. This combination of competition and collaboration creates an innovation ecosystem that fosters proprietary knowledge protection coupled with selective sharing to promote growth.
 
 The patent strategies of the top agricultural technology firms reveals a mix of competition and cooperation. As firms have locked critical patents in Soil and Fertilizer Management, Pest Control, Alternative Nutrients, Predictive Models and Autonomous Devices, they maintain their competitive advantage, with high barriers for new entrants. This fortifies international reach, drives partnerships, and powers the innovation landscape in the agriculture ecosystem. Intellectual property protection can restrict open innovation in monopolized sectors, but sharing with licenses and partnerships enables all to grow together. Finally, these are the IP strategies that empower firms to use innovation for the long-term competitive advantage of the company which in turn design the landscape of sustainable and efficient agriculture of the future.
 
-# 8
+# Emerging and Future Technologies in Agriculture: Their Role and Implications on Ecosystem Dynamics
+
+Agriculture is undergoing a significant transformation, driven by emerging and futuristic technologies that promise to reshape traditional practices, address pressing global challenges, and redefine ecosystem dynamics. This part will explore five critical technologies—Advanced AI and Machine Learning Applications, AI-Driven Regenerative Agriculture, Internet of Everything (IoE) coupled with Molecular Communication and Nanotechnology and Electro-Agriculture—and assesses their broader implications on the agriculture industry and ecosystem sustainability.
+
+## Advanced AI and Machine Learning Applications
+
+### **Technology Overview**
+
+Advanced AI and machine learning systems enable real-time, data-driven decision-making in agriculture. They integrate vast datasets, from satellite imagery and IoT sensors to weather forecasts, to optimize planting schedules, pest control, irrigation, and harvesting strategies.
+
+### **Ecosystem Impact**
+
+-   **Enhanced Resource Efficiency:**  Reduces water, fertilizer, and pesticide use by up to 30%, curbing environmental degradation and conserving vital resources.
+
+-   **Improved Resilience:**  Predictive models enable farmers to adapt to climate change by anticipating droughts, floods, or pest outbreaks. 
+
+-   **Economic Disparity:**  Widespread adoption may favor large-scale farms equipped with the necessary infrastructure, potentially widening the gap between industrial and smallholder farmers.
+
+-   **Global Collaboration:**  AI-powered platforms facilitate knowledge sharing across geographies, fostering a collaborative global agricultural ecosystem.
+
+## AI-Driven Regenerative Agriculture
+
+### **Technology Overview** 
+
+AI could also support regenerative agriculture by automating carbon sequestration monitoring and enabling precision practices like cover cropping and soil mapping. Machine learning reduces the need for physical soil sampling, enhancing cost-efficiency. 
+
+### **Ecosystem Impact**
+
+-   **Carbon Sequestration:**  Boosts soil’s ability to store carbon, mitigating climate change while improving soil health. 
+
+-   **Farmer Incentives:**  Carbon credits offer additional income streams, incentivizing sustainable practices. 
+
+-   **Standardization Challenges:**  The lack of consistent monitoring and verification standards across geographies could hinder large-scale implementation. 
+
+-   **Global Reach:**  Technologies like Perennial’s mapping and Downforce’s digital twins empower farmers globally, fostering equitable participation in carbon markets. 
+
+## Internet of Everything (IoE) and Molecular Communication with Nanotechnology
+
+### **Technology Overview**
+
+IoE creates interconnected networks of smart devices and sensors, providing real-time monitoring and control of agricultural processes. Molecular communication and nanotechnology add precision by enabling devices to interact at a molecular level, such as detecting soil nutrient deficiencies and delivering targeted interventions. 
+
+### **Ecosystem Impact** 
+
+-   **Precision in Resource Management:**  Nano-sensors improve soil health and reduce overuse of fertilizers and water, lowering environmental contamination. 
+
+-   **Improved Crop Yields:**  Real-time data empowers farmers to adjust practices dynamically, increasing productivity. 
+
+-   **Data Dependency and Privacy Concerns:**  Widespread reliance on IoE may raise data ownership and privacy issues, potentially creating governance challenges. 
+
+-   **Ecosystem Monitoring:**  Enables biodiversity assessments and wildlife protection by monitoring agricultural impacts on surrounding ecosystems.
+
+## Electro-Agriculture
+
+### **Technology Overview** 
+
+Electro-agriculture utilizes solar-powered chemical reactions to enhance photosynthesis efficiency, enabling plants to grow in controlled environments without sunlight or soil. 
+
+### **Ecosystem Impact** 
+
+-   **Drastic Land Use Reduction:** Could free up 88% of farmland for reforestation or conservation, enhancing biodiversity and reducing deforestation. 
+
+-   **Climate Resilience:**  Decouples food production from environmental conditions, stabilizing supplies during climate-related disruptions and also for future climate concern.
+
+-   **Energy Dependence:**  Requires significant investment in renewable energy infrastructure to remain sustainable.
+
+-   **Urban Integration:**  Promotes vertical farming in cities, reducing food miles and emissions from transportation.
+
+## **Broader Implications on Ecosystem Dynamics** 
+
+**1. Economic Transformation** 
+
+Emerging technologies are redefining agricultural business models, favoring automation, precision, and data-driven decision-making. This shift could disrupt traditional supply chains, reduce labor dependency, and foster innovation but may exclude smaller stakeholders without adequate resources.
+
+**2. Climate and Environmental Sustainability** 
+
+Technologies like electro-agriculture and regenerative agriculture hold the potential to significantly reduce agriculture’s carbon footprint. By conserving water, minimizing soil degradation, and supporting biodiversity, they align agriculture with global sustainability goals, such as the Paris Agreement.
+
+**3. Food Security and Resilience** 
+
+Decoupling food production from environmental unpredictability enhances resilience against climate change, ensuring a stable food supply for growing populations. Vertical farming and IoE-driven monitoring can optimize yield while reducing losses due to pests or adverse weather. 
+
+**4. Equity and Accessibility** 
+
+Advanced technologies risk creating a divide between industrial and smallholder farmers. Addressing this disparity through affordable solutions and inclusive policies will be essential to prevent marginalization in the agricultural ecosystem. 
+
+**5. Ethical and Governance Concerns** 
+
+The widespread adoption of AI, IoE, and genetic modification raises ethical questions around data privacy, intellectual property rights, and the ecological impact of engineered solutions. Establishing robust governance frameworks will be critical to navigating these challenges. 
+
+**Conclusion** 
+
+The integration of advanced and emerging technologies into agriculture represents a paradigm shift, offering unprecedented opportunities to enhance productivity, sustainability, and resilience. However, realizing these benefits requires addressing challenges such as equitable access, ethical considerations, and the environmental impact of technological adoption. By fostering collaboration, promoting inclusive policies, and investing in sustainable infrastructure, the agricultural industry can harness these innovations to create a more sustainable and equitable food system. These technologies are not just tools for growth—they are the cornerstone of a reimagined agricultural ecosystem capable of meeting the challenges of tomorrow.
 
 # References
 
 ## Text References
 
+1.  *A short history of tractor front loaders* – Valtra’s long and continuing development. (n.d.). Valtra. Retrieved 20 October 2024, from <https://www.valtra.com/content/valtra/en/blog/history/a-short-history-of-tractor-front-loaders-valtras-long-and-continuing-development.html>
+2.  *About SmartAgriHubs.* (n.d.). SmartAgriHubs. Retrieved 25 October 2024, from <http://www.smartagrihubs.eu/about>
+3.  *Agricultural Innovation Center*. (n.d.). The Southeast Innovation Institute. Retrieved 25 October 2024, from <https://www.seii.us/agricultural-innovation-center>
+4.  AgriDataSpace**.** (2024). *Building a European framework for the secure and trusted data space for agriculture \[Policy Brief\]*. European Union. <https://agridataspace-csa.eu/wp-content/uploads/2024/09/AGRIDATA-SPACE-FINAL-BROCHURE.pdf>
+5.  Agroscope. (n.d.). *Virtual Fencing without Long-Term Stress for Cows.* Retrieved 15 October 2024, from <https://www.agroscope.admin.ch/agroscope/en/home/topics/plant-production/forage-grassland-grazing-systems/virtueller-zaun.html>
+6.  Babar, A. Z., & Akan, O. B. (2024). Sustainable and Precision Agriculture with the Internet of Everything (IoE) (Version 2). arXiv. <https://doi.org/10.48550/ARXIV.2404.06341> 
+7.  Baruchi, R. (2023, December 20). 5 AgTech Trends to Watch in 2024. *Global Ag Tech Initiative.* <https://www.globalagtechinitiative.com/digital-farming/analytics/5-agtech-trends-to-watch-in-2024/>
+8.  Bland, R., Ganesan, V., Hong, E., & Kalanik, J. (2023, May 31). *Trends driving automation on the farm. McKinsey & Company*. Retrieved 3 October 2024, from <https://www.mckinsey.com/industries/agriculture/our-insights/trends-driving-automation-on-the-farm>
+9.  CSIRO. (n.d.). *Virtual fencing*. CSIRO. Retrieved 11 October 2024, from <https://www.csiro.au/en/research/technology-space/it/Virtual-fencing>
+10. *DIH AGRIFOOD - Digital Innovation Hub for Agriculture and Food production. (n.d.)*. European Commission. Retrieved 25 October 2024, from <https://european-digital-innovation-hubs.ec.europa.eu/edih-catalogue/dih-agrifood-digital-innovation-hub-agriculture-and-food-production>
+11. Dixon, J., Li, L., & Amede, T. (2023). A century of farming systems. Part 1: Concepts and evolution. *Farming System*, 1(3), 100055. <https://doi.org/10.1016/j.farsys.2023.100055>
+12. Eastwood, C., Klerkx, L., & Nettle, R. (2017). Dynamics and distribution of public and private research and extension roles for technological innovation and diffusion: Case studies of the implementation and adaptation of precision farming technologies. *Journal of Rural Studies*, 49, 1–12. <https://doi.org/10.1016/j.jrurstud.2016.11.008>
+13. *EIT Food HUBs.* (n.d.). EIT FOOD. Retrieved 25 October 2024, from <https://www.eitfood.eu/eit-food-hubs>
+14. *Food system impacts on biodiversity loss (2021). (n.d.)*. International Confederation of Dietetic Associations. Retrieved 13 November 2024, from <https://icdasustainability.org/report/food-system-impacts-on-biodiversity-loss-2023/>
+15. *Global Symposium on Soil Erosion. (n.d.)*. Food and Agriculture Organization of the United Nations. Retrieved 13 November 2024, from <https://www.fao.org/about/meetings/soil-erosion-symposium/key-messages/en/>
+16. Goedde, L., Katz, J., Ménard, A., & Revellat, J. (2020, October 9). *Agriculture’s technology future: How connectivity can yield new growth*. McKinsey Company. Retrieved 11 October 2024, from <https://www.mckinsey.com/industries/agriculture/our-insights/agricultures-connected-future-how-technology-can-yield-new-growth>
+17. Gross, D. (2017). *Scale versus Scope in the Diffusion of New Technology: Evidence from the Farm Tractor* (No. w24125; p. w24125). National Bureau of Economic Research. <https://doi.org/10.3386/w24125>
+18. Harder, R., Giampietro, M., Mullinix, K., & Smukler, S. (2021). Assessing the circularity of nutrient flows related to the food system in the Okanagan bioregion, BC Canada. *Resources, Conservation and Recycling*, 174, 105842. <https://doi.org/10.1016/j.resconrec.2021.105842>
+19. Helmy, H. S., et al. (2024). Field-grown lettuce production optimized through precision irrigation water management using soil moisture-based capacitance sensors and biodegradable soil mulching. *Irrigation Science*. <https://doi.org/10.1007/s00271-024-00969-9>
+20. *Histoire du Tracteur.* (n.d.). République et canton de Neuchâtel. Retrieved 21 October 2024, from <https://www.ne.ch/autorites/DDTE/SAGR/evologia/manifestations/Documents/Tractorama.pdf>
+21. *Historical Moments in American Agriculture & Agricultural Lending. (2018, July 4)*. AgAmerica. <https://agamerica.com/blog/history-agricultural-inventions/>
+22. *How Has Technology Changed Farming?* (2024, June 3). Bayer. <https://www.bayer.com/en/agriculture/article/technology-agriculture-how-has-technology-changed-farming>
+23. *In heart of U.S. corn belt, new Syngenta Seeds R&D Innovation Center gives farmers a “seat at the innovation table”.* (n.d.). Syngenta Group. Retrieved 25 October 2024, from <https://www.syngentagroup.com/sustainability/stories/new-syngenta-seeds-rd-innovation-center-gives-farmers-seat-innovation-table>
+24. Industry Intel Connect Insights. (n.d.). *Agriculture Market Size \| Competitive Dynamics and Industry Segmentation.* LinkedIn. Retrieved 8 October 2024, from <https://www.linkedin.com/pulse/agriculture-market-size-competitive-dynamics-thyrf/>
+25. Innovation Hub for Controlled Environment Agriculture (IHCEA). (n.d.). *CHAP*. Retrieved 25 October 2024, from <https://chap-solutions.co.uk/capabilities/innovation-hub-for-controlled-environment-agriculture-ihcea/>
+26. Iron Solutions. (2020, November 17). *From Hay-Powered Horses to Gas-Powered Tractors.* Iron Solutions. <https://ironsolutions.com/history-of-tractors/>
+27. Jones, J. W., et al. (2017). Brief history of agricultural systems modeling. *Agricultural Systems*, 155, 240–254. <https://doi.org/10.1016/j.agsy.2016.05.014>
+28. Kenney, M., Serhan, H., & Trystram, G. (2020). Digitization and Platforms in Agriculture: Organizations, Power Asymmetry, and Collective Action Solutions. *SSRN Electronic Journal*. <https://doi.org/10.2139/ssrn.3638547>
+29. Krishnan, A., Banga, K., & Feyertag, J. (2020). *Platforms in agricultural value chains: Emergence of new business models.* Supporting Economic Transformation. <https://set.odi.org/wp-content/uploads/2020/07/Platforms-in-agricultural-value-chains-Business-Models.pdf>
+30. Lezoche, M., et al. (2020). Agri-food 4.0: A survey of the supply chains and technologies for the future agriculture. *Computers in Industry*, 117, 103187. <https://doi.org/10.1016/j.compind.2020.103187>
+31. Lu, G., Li, S., Mai, G., Sun, J., Zhu, D., Chai, L., Sun, H., Wang, X., Dai, H., Liu, N., Xu, R., Petti, D., Li, C., & Liu, T. (2023). AGI for Agriculture (Version 1). arXiv. <https://doi.org/10.48550/ARXIV.2304.06136>
+32. Ludwig, A. (n.d.). *A Timeline of Tractors: Evolution of Farming Machinery.* Resource Light. Retrieved 21 October 2024, from <https://www.crestcapital.com/tax/timeline_of_tractors>
+33. Mehta, A. (2024, September 18). From field to the cloud: How AI is helping regenerative agriculture to grow. Reuters. <https://www.reuters.com/sustainability/land-use-biodiversity/field-cloud-how-ai-is-helping-regenerative-agriculture-grow-2024-09-18/>
+34. Nelson, W. (2019, August 12). The Fascinating History of the First Tractor Ever Invented—Nelson Tractor Blog. *Nelson Tractor Company*. <https://nelsontractorco.com/first-tractor/>
+35. Nofence. (n.d.). *World’s first virtual fence for livestock.* Retrieved 15 October 2024, from <https://www.nofence.no/en/>
+36. OECD. (2022). *Enhancing Innovation in Rural Regions of Switzerland.* OECD. <https://doi.org/10.1787/307886ff-en>
+37. Ordish, G., et al. (2024, October 22). Origins of agriculture. *Encyclopedia Britannica*. <https://www.britannica.com/topic/agriculture>
+38. Park, I. (2022, December 13). *A Timeline of the Three Major Agricultural Revolutions in History.* Population Education. <https://populationeducation.org/a-timeline-of-the-three-major-agricultural-revolutions-in-history/>
+39. *Precision Farming Market Size & Share Analysis—Growth Trends & Forecasts (2024—2029).* (n.d.). Mordor Intelligence. Retrieved 3 October 2024, from <https://www.mordorintelligence.com/industry-reports/global-precision-farming-market-industry>
+40. Rose, D. C., et al. (2018). Exploring the spatialities of technological and user re-scripting: The case of decision support tools in UK agriculture. *Geoforum*, 89, 11–18. <https://doi.org/10.1016/j.geoforum.2017.12.006>
+41. Saeed, N. (2024). *Development of agriculture tractor and power units.* <https://doi.org/10.13140/RG.2.2.35166.65608>
+42. SAI Platform. (2023). *2023 annual report*. <https://saiplatform.org/wp-content/uploads/documents/22296/sai-platform_annualreport-2023_in-brief.pdf>
+43. Schnebelin, É., et al. (2021). How digitalisation interacts with ecologisation? Perspectives from actors of the French Agricultural Innovation System. *Journal of Rural Studies*, 86, 599–610. <https://doi.org/10.1016/j.jrurstud.2021.07.023>
+44. Shakhovskoy, M., et al. (2021). *Agricultural “Platforms” in a digital era: Defining the landscape.* ISF Advisors and Mastercard Foundation Rural and Agricultural Finance Learning Lab. <https://isfadvisors.org/wp-content/uploads/2021/03/ISF_RAFLL_Agricultural_Platforms_Report.pdf>
+45. Stacey, L. (2024, November 3). Why Our Produce Could Soon Be Grown in Total Darkness. Food & Wine. <https://www.foodandwine.com/electro-agriculture-vertical-farming-8738299>
+46. Suborna, Vishakha, & Samriddh. (2024, January 31). Agriculture Technology Trends 2024: Farming Innovations Worth \$148 Billion To Explore. *GreyB*. <https://www.greyb.com/blog/agriculture-technology-trends/>
+47. *The Global Network of Digital Agriculture Innovation Hubs.* (n.d.). Food and Agriculture Organization of the United Nations. Retrieved 25 October 2024, from <https://www.fao.org/in-action/global-network-digital-agriculture-innovation-hubs/en>
+48. Tomashuk, I. (2023). Competitiveness of agricultural enterprises in market conditions and ways of its increase. *Green, Blue and Digital Economy Journal*, 4(1), 64–81. <https://doi.org/10.30525/2661-5169/2023-1-7>
+49. Tractor. (2024). In *Wikipedia*. <https://en.wikipedia.org/w/index.php?title=Tractor&oldid=1251960534>
+50. *Tractors Market Size \| Mordor Intelligence*. (n.d.). Mordor Intelligence. Retrieved 19 October 2024, from <https://www.mordorintelligence.com/industry-reports/tractors-market>
+51. Vanham, D., Mekonnen, M. M., & Hoekstra, A. Y. (2020). Treenuts and groundnuts in the EAT-Lancet reference diet: Concerns regarding sustainable water use. *Global Food Security*, 24, 100357. <https://doi.org/10.1016/j.gfs.2020.100357>
+52. White, William. *Economic History of Tractors in the United States*. EH.Net Encyclopedia, edited by Robert Whaples. March 26, 2008.\
+    <https://eh.net/encyclopedia/economic-history-of-tractors-in-the-united-states/>
+53. **Wolfert, Sjaak & Beers, George. (2019). SmartAgriHubs. Connecting the dots to foster the digital transformation of the European agri-food sector - highlighting the Portuguese innovation ecosystem. New Zealand Journal of Crop and Horticultural Science.**
+54. World Intellectual Property Organization. (n.d.). *Patent Landscape Report: Agrifood*. World Intellectual Property Organization. <https://doi.org/10.34667/TIND.49840>
+55. Xu, S., Wang, Y., Wang, S., & Li, J. (2020). Research and application of real-time monitoring and early warning thresholds for multi-temporal agricultural products information. *Journal of Integrative Agriculture*, 19(10), 2582–2596. <https://doi.org/10.1016/S2095-3119(20)63368-8>
+56. 8 Precision Agriculture Trends in 2024. (n.d.). Cropinno. Retrieved 8 October 2024, from <https://cropinno.com/2024/02/21/8-precision-agriculture-trends-in-2024/>
+
 ## Images and Graphs
 
 ::: {#ref1}
-Figure 1 blablabla https://ourworldindata.org/environmental-impacts-of-food 
+Figure 1. Ritchie, H. (2022). The environmental impacts of food and agriculture. Our World in Data. Retrieved November 13, 2024, from <https://ourworldindata.org/environmental-impacts-of-food>
 :::
 
 ::: {#ref2}
-Figure 2 blablabla 
+Figure 2. Group Afonso. (2024). Interactive Ecosystem map.
 :::
 
 ::: {#ref3}
-Figure 3 blablabla https://ourworldindata.org/grapher/global-warming-land 
+Figure 3. Jones, R., Smith, T., & Brown, L. (2024). Contribution to global mean surface temperature rise from agriculture and land use. Our World in Data. Retrieved November 13, 2024, from <https://ourworldindata.org/grapher/global-warming-land>
 :::
 
 ::: {#ref4}
-Figure 4 blablabla https://ourworldindata.org/water-use-stress 
+Figure 4. World Bank. (2024). Annual freshwater withdrawals. Our World in Data. Retrieved November 13, 2024, from <https://ourworldindata.org/water-use-stress>
 :::
 
 ::: {#ref5}
-Figure 5 blablabla https://ourworldindata.org/emissions-by-sector 
+Figure 5. Climate Watch. (2024). **Greenhouse gas emissions by sector.** Our World in Data. Retrieved November 13, 2024, from <https://ourworldindata.org/emissions-by-sector>
 :::
 
 ::: {#ref6}
-Figure 6 blablabla https://ourworldindata.org/emissions-by-sector 
+Figure 6. Climate Watch. (2024). **Emissions by sector.** Our World in Data. Retrieved November 13, 2024, from <https://ourworldindata.org/emissions-by-sector>
 :::
 
 ::: {#ref7}
-Figure 7 blablabla ours
+Figure 7. Group Afonso. (2024). Timeline of the Agriculture Industry.
 :::
 
 ::: {#ref8}
-Figure 8 blablabla https://www.thwhite.co.uk/wordpress/wp-content/uploads/2017/02/Fordson-F_3.jpg 
+Figure 8. T H White. (n.d.). *The Fordson tractor*. Retrieved November 13, 2024, from <https://www.thwhite.co.uk/wordpress/wp-content/uploads/2017/02/Fordson-F_3.jpg>
 :::
 
 ::: {#ref9}
-Figure 9 blablabla https://s.wsj.net/public/resources/images/B3-BP731_RUMBLE_M_20180905160536.jpg 
+Figure 9. Wall Street Journal. (n.d.). *The Waterloo Boy tractor*. Retrieved November 13, 2024, from <https://s.wsj.net/public/resources/images/B3-BP731_RUMBLE_M_20180905160536.jpg>
 :::
 
 ::: {#ref10}
-Figure 10 blablabla
+Figure 10. Group Afonso. (2024). Innovation Hubs map.
 :::
 
 ::: {#ref11}
-Figure 11 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html
+Figure 11. World Intellectual Property Organization (WIPO). (2024). *More than 3.5 million patent families have been published in the Agrifood sector over the past 20 years, with around 12% being international patent families*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html>
 :::
 
 ::: {#ref12}
-Figure 12 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html
+Figure 12. World Intellectual Property Organization (WIPO). (2024). *Non-international patent families represent 86% of the overall AgriTech domain and 90% in FoodTech*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/key-findings.html>
 :::
 
 ::: {#ref13}
-Figure 13 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/3-soil-and-fertilizer-management.html#h2-top-players 
+Figure 13. World Intellectual Property Organization (WIPO). (2024). *Top players are agricultural machinery manufacturers such as Deere, CNH Industrial and Kubota, as well as chemical companies like BASF and Bayer*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/3-soil-and-fertilizer-management.html#h2-top-players>
 :::
 
 ::: {#ref14}
-Figure 14 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/4-non-pesticide-pest-and-disease-management.html#h2-top-players 
+Figure 14. World Intellectual Property Organization (WIPO). (2024). *The Non-pesticide pest and disease management field is dominated by industrial actors, including BASF, Bayer, and other companies from the United States, Japan and France*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/4-non-pesticide-pest-and-disease-management.html#h2-top-players>
 :::
 
 ::: {#ref15}
-Figure 15 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/5-alternative-nutrient-sources-for-human-food.html#h2-top-players 
+Figure 15. World Intellectual Property Organization (WIPO). (2024). *Companies like Pioneer Hi-Bred International, Nestlé, DSM-Firmenich and BASF have developed innovative patent portfolios for Alternative nutrient sources in food products*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/5-alternative-nutrient-sources-for-human-food.html#h2-top-players>
 :::
 
 ::: {#ref16}
-Figure 16 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/6-predictive-models-in-precision-agriculture.html#h2-top-players 
+Figure 16. World Intellectual Property Organization (WIPO). (2024). *US-based Deere is the leading patent applicant for Predictive models in precision agriculture*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/6-predictive-models-in-precision-agriculture.html#h2-top-players>
 :::
 
 ::: {#ref17}
-Figure 17 blablabla https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/7-autonomous-devices-in-precision-agriculture.html#h2-top-players 
+Figure 17. World Intellectual Property Organization (WIPO). (2024). *Industrial actors, mainly from Germany, dominate Autonomous devices in precision agriculture, although US-based Deere leads the way*. Retrieved November 13, 2024, from <https://www.wipo.int/web-publications/patent-landscape-report-agrifood/en/7-autonomous-devices-in-precision-agriculture.html#h2-top-players>.
 :::

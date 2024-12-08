@@ -5,7 +5,7 @@ account: ellitna
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13336707
-bundleId: 9370285
+bundleId: 9406432
 url: https://ellitna.shinyapps.io/EcosystemMap/
 version: 1
 asMultiple: FALSE

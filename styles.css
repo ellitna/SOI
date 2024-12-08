@@ -64,3 +64,24 @@ h3 {
 h4 {
   color: #00b300; /* Light green */
 }
+
+#back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: block;
+  background-color: #4CAF50; /* Couleur verte */
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  font-size: 18px;
+  z-index: 1000;
+}
+
+#back-to-top:hover {
+  background-color: #45a049;
+  text-decoration: none;
+}
